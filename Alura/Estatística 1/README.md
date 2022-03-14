@@ -1,0 +1,1 @@
+## Curso de *Estatística com Python parte 1: frequências e medidas* ministrado pelo instrutor Rodrigo Fernando Dias.

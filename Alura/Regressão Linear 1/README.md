@@ -1,0 +1,1 @@
+## Curso de *Regressão Linear: testando relações e prevendo resultados* ministrado pelo instrutor Rodrigo Fernando Dias.

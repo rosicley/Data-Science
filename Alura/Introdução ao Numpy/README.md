@@ -1,0 +1,1 @@
+## Curso de *Python para Data Science: introdução à linguagem e Numpy* ministrado pelo instrutor Rodrigo Fernando Dias.

@@ -1,0 +1,1 @@
+## Curso de *Regressão Linear: técnicas avançadas de modelagem* ministrado pelo instrutor Rodrigo Fernando Dias.

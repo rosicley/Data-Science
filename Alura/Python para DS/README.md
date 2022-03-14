@@ -1,0 +1,1 @@
+## Curso de *Python para Data Science: primeiros passos* e de *Python para Data Science: Funções, Pacotes e Pandas básico* ministrados pelos instrutores Guilherme Lima e Rodrigo Fernando Dias, respectivamente.

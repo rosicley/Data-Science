@@ -1,0 +1,1 @@
+## Curso de *Pandas: formatos diferentes de entrada e saída (IO)* ministrado pelo instrutor Guilherme Lima.

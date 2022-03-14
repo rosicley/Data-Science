@@ -1,0 +1,1 @@
+## Curso de *Python Pandas: tratando e analisando dados* ministrado pelo instrutor Rodrigo Fernando Dias.

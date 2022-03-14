@@ -1,0 +1,1 @@
+## Curso de *Estatística com Python parte 2: probabilidade e amostragem* ministrado pelo instrutor Rodrigo Fernando Dias.
