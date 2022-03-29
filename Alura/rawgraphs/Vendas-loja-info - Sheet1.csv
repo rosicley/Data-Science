@@ -1,0 +1,701 @@
+Data e hora da compra,Total de compras,Cidade,Produto
+2018-01-12 0:00:00,72,Caxias do Sul,processador
+2018-01-12 0:30:00,78,Marica,monitor
+2018-01-12 1:00:00,133,Jaboatao dos Guararapes,chaveador
+2018-01-12 1:30:00,108,Sao Goncalo,mochila de notebook 15 pol
+2018-01-12 2:00:00,84,Cachoeira do Sul,headset com microfone
+2018-01-12 2:30:00,161,Arcoverde,memória ddr3 8gb
+2018-01-12 3:00:00,150,Marica,mouse sem fio
+2018-01-12 3:30:00,156,Rio das Ostras,processador
+2018-01-12 4:00:00,59,Sao Pedro da Aldeia,cartão de memória microsd 8gb
+2018-01-12 4:30:00,112,Sao Pedro da Aldeia,cartão de memória
+2018-01-12 5:00:00,104,Nova Iguacu,processador
+2018-01-12 5:30:00,102,Arcoverde,memória ddr3 16gb
+2018-01-12 6:00:00,139,Itaborai,mouse sem fio
+2018-01-12 6:30:00,87,Volta Redonda,memória ddr4 8gb
+2018-01-12 7:00:00,144,Paracambi,headset com microfone
+2018-01-12 7:30:00,125,Bage,mochile de notebook 17 pol
+2018-01-12 8:00:00,127,Itaborai,processador
+2018-01-12 8:30:00,95,Rio de Janeiro,memória ddr3 8gb
+2018-01-12 9:00:00,144,Volta Redonda,processador
+2018-01-12 9:30:00,122,Santo Antonio de Padua,monitor
+2018-01-12 10:00:00,69,Cacapava do Sul,cartão de memória
+2018-01-12 10:30:00,113,Araripina,fonte
+2018-01-12 11:00:00,101,Resende,mouse com fio
+2018-01-12 11:30:00,61,Caruaru,memória ddr3 16gb
+2018-01-12 12:00:00,157,Rio das Ostras,cartão de memória microsd 16gb
+2018-01-12 12:30:00,138,Araripina,cartão de memória
+2018-01-12 13:00:00,81,Niteroi,cartão de memória microsd 16gb
+2018-01-12 13:30:00,101,Carazinho,memória ddr4 8gb
+2018-01-12 14:00:00,59,Caruaru,fonte
+2018-01-12 14:30:00,166,Itaperuna,adaptador HDMI/VGA
+2018-01-12 15:00:00,150,Cachoeira do Sul,cartão de memória 32gb microsd classe 10
+2018-01-12 15:30:00,69,Canoas,cartão de memória microsd 8gb
+2018-01-12 16:00:00,135,Caxias do Sul,memória ddr3 16gb
+2018-01-12 16:30:00,156,Bom Jesus do Itabapoana,maleta para notebook
+2018-01-12 17:00:00,63,Tres Rios,memória ddr3 8gb
+2018-01-12 17:30:00,62,Gravata,adaptador HDMI/VGA
+2018-01-12 18:00:00,56,Cachoeirinha,cartão de memória microsd 16gb
+2018-01-12 18:30:00,129,Paulista,fonte
+2018-01-12 19:00:00,158,Resende,mouse sem fio
+2018-01-12 19:30:00,115,Cachoeira do Sul,mochile de notebook 17 pol
+2018-01-12 20:00:00,107,Nova Friburgo,cabo p2
+2018-01-12 20:30:00,140,Teresopolis,cartão de memória microsd 16gb
+2018-01-12 21:00:00,72,Cachoeirinha,mouse com fio
+2018-01-12 21:30:00,136,Cabo de Santo Agostinho,maleta para notebook
+2018-01-12 22:00:00,72,Alvorada,cabo p2
+2018-01-12 22:30:00,82,Itaborai,fonte
+2018-01-12 23:00:00,157,Garanhuns,fone sem fio
+2018-01-12 23:30:00,96,Bento Goncalves,monitor
+2018-01-13 0:00:00,170,Volta Redonda,chaveador
+2018-01-13 0:30:00,165,Niteroi,cartão de memória microsd 16gb
+2018-01-13 1:00:00,96,Petrolina,cabo p2
+2018-01-13 1:30:00,57,Pesqueira,memória ddr3 16gb
+2018-01-13 2:00:00,174,Sao Goncalo,mochile de notebook 17 pol
+2018-01-13 2:30:00,148,Sao Goncalo,mochila de notebook 15 pol
+2018-01-13 3:00:00,89,Olinda,cartão de memória microsd 16gb
+2018-01-13 3:30:00,102,Quissama,monitor
+2018-01-13 4:00:00,167,Sao Goncalo,chaveador
+2018-01-13 4:30:00,152,Gravata,mouse com fio
+2018-01-13 5:00:00,99,Pesqueira,fonte
+2018-01-13 5:30:00,72,Carpina,memória ddr4 8gb
+2018-01-13 6:00:00,102,Cacapava do Sul,processador
+2018-01-13 6:30:00,101,Rio Bonito,headset com microfone
+2018-01-13 7:00:00,165,Volta Redonda,cartão de memória
+2018-01-13 7:30:00,123,Nilopolis,mouse com fio
+2018-01-13 8:00:00,158,Casca,fone sem fio
+2018-01-13 8:30:00,117,Olinda,mochila de notebook 15 pol
+2018-01-13 9:00:00,96,Quissama,memória ddr3 16gb
+2018-01-13 9:30:00,127,Quissama,maleta para notebook
+2018-01-13 10:00:00,157,Caxias do Sul,fone sem fio
+2018-01-13 10:30:00,78,Araripina,headset com microfone
+2018-01-13 11:00:00,146,Afogados da Ingazeira,memória ddr4 8gb
+2018-01-13 11:30:00,78,Butia,mochila de notebook 15 pol
+2018-01-13 12:00:00,127,Nova Friburgo,fone sem fio
+2018-01-13 12:30:00,156,Cabo de Santo Agostinho,mouse com fio
+2018-01-13 13:00:00,114,Nilopolis,cabo p2
+2018-01-13 13:30:00,78,Caruaru,monitor
+2018-01-13 14:00:00,171,Arroio Grande,memória ddr4 8gb
+2018-01-13 14:30:00,78,Niteroi,cabo p2
+2018-01-13 15:00:00,99,Angra dos Reis,fonte
+2018-01-13 15:30:00,80,Bage,processador
+2018-01-13 16:00:00,163,Cachoeira do Sul,maleta para notebook
+2018-01-13 16:30:00,110,Carazinho,mouse com fio
+2018-01-13 17:00:00,96,Pesqueira,fone sem fio
+2018-01-13 17:30:00,118,Duque de Caxias,cartão de memória
+2018-01-13 18:00:00,119,Pesqueira,headset com microfone
+2018-01-13 18:30:00,58,Petrolina,memória ddr3 8gb
+2018-01-13 19:00:00,112,Cachoeirinha,cartão de memória 32gb microsd classe 10
+2018-01-13 19:30:00,135,Olinda,adaptador HDMI/VGA
+2018-01-13 20:00:00,87,Macae,cartão de memória microsd 16gb
+2018-01-13 20:30:00,77,Vitoria de Santo Antao,memória ddr3 16gb
+2018-01-13 21:00:00,155,Recife,cabo HDMI
+2018-01-13 21:30:00,132,Volta Redonda,memória ddr4 8gb
+2018-01-13 22:00:00,60,Arcoverde,processador
+2018-01-13 22:30:00,139,Arcoverde,monitor
+2018-01-13 23:00:00,147,Duque de Caxias,cartão de memória
+2018-01-13 23:30:00,61,Carazinho,mouse sem fio
+2018-01-14 0:00:00,120,Carazinho,mochile de notebook 17 pol
+2018-01-14 0:30:00,101,Jaboatao dos Guararapes,mouse sem fio
+2018-01-14 1:00:00,139,Parati,memória ddr4 8gb
+2018-01-14 1:30:00,102,Vassouras,chaveador
+2018-01-14 2:00:00,164,Rio de Janeiro,fonte
+2018-01-14 2:30:00,154,Arcoverde,memória ddr3 8gb
+2018-01-14 3:00:00,170,Pesqueira,monitor
+2018-01-14 3:30:00,155,Vassouras,cartão de memória microsd 8gb
+2018-01-14 4:00:00,88,Mage,maleta para notebook
+2018-01-14 4:30:00,135,Petrolina,cartão de memória 32gb microsd classe 10
+2018-01-14 5:00:00,148,Teresopolis,headset com microfone
+2018-01-14 5:30:00,66,Canoas,cartão de memória microsd 8gb
+2018-01-14 6:00:00,115,Paracambi,mochile de notebook 17 pol
+2018-01-14 6:30:00,121,Petropolis,maleta para notebook
+2018-01-14 7:00:00,58,Salgueiro,memória ddr3 8gb
+2018-01-14 7:30:00,117,Bom Jesus do Itabapoana,chaveador
+2018-01-14 8:00:00,134,Santa Cruz do Capibaribe,headset com microfone
+2018-01-14 8:30:00,59,Recife,cartão de memória microsd 8gb
+2018-01-14 9:00:00,73,Duque de Caxias,maleta para notebook
+2018-01-14 9:30:00,117,Caruaru,memória ddr3 16gb
+2018-01-14 10:00:00,138,Teresopolis,processador
+2018-01-14 10:30:00,87,Parati,mochila de notebook 15 pol
+2018-01-14 11:00:00,161,Gravata,cartão de memória
+2018-01-14 11:30:00,130,Recife,mochile de notebook 17 pol
+2018-01-14 12:00:00,174,Pesqueira,cartão de memória microsd 16gb
+2018-01-14 12:30:00,56,Arroio Grande,mouse com fio
+2018-01-14 13:00:00,106,Alvorada,memória ddr4 8gb
+2018-01-14 13:30:00,122,Nilopolis,mouse sem fio
+2018-01-14 14:00:00,77,Canela,cartão de memória microsd 16gb
+2018-01-14 14:30:00,77,Barra do Pirai,cartão de memória
+2018-01-14 15:00:00,116,Duque de Caxias,cartão de memória 32gb microsd classe 10
+2018-01-14 15:30:00,161,Campos dos Goytacazes,cabo p2
+2018-01-14 16:00:00,132,Macae,memória ddr4 8gb
+2018-01-14 16:30:00,137,Timbauba,cartão de memória microsd 8gb
+2018-01-14 17:00:00,79,Petropolis,cabo p2
+2018-01-14 17:30:00,99,Cangucu,fonte
+2018-01-14 18:00:00,145,Araripina,fone sem fio
+2018-01-14 18:30:00,167,Cangucu,mouse sem fio
+2018-01-14 19:00:00,112,Casca,cartão de memória 32gb microsd classe 10
+2018-01-14 19:30:00,69,Valenca,mochila de notebook 15 pol
+2018-01-14 20:00:00,137,Marica,maleta para notebook
+2018-01-14 20:30:00,149,Pesqueira,mochila de notebook 15 pol
+2018-01-14 21:00:00,136,Canoas,headset com microfone
+2018-01-14 21:30:00,130,Gravata,monitor
+2018-01-14 22:00:00,77,Cabo Frio,monitor
+2018-01-14 22:30:00,126,Paracambi,fone sem fio
+2018-01-14 23:00:00,174,Gravata,cabo p2
+2018-01-14 23:30:00,146,Salgueiro,mouse sem fio
+2018-01-15 0:00:00,127,Gravata,headset com microfone
+2018-01-15 0:30:00,136,Canela,fonte
+2018-01-15 1:00:00,150,Rio Bonito,mochile de notebook 17 pol
+2018-01-15 1:30:00,124,Bage,maleta para notebook
+2018-01-15 2:00:00,136,Caruaru,memória ddr3 16gb
+2018-01-15 2:30:00,131,Sao Goncalo,memória ddr4 8gb
+2018-01-15 3:00:00,122,Carpina,monitor
+2018-01-15 3:30:00,62,Duque de Caxias,mouse sem fio
+2018-01-15 4:00:00,57,Vassouras,mochila de notebook 15 pol
+2018-01-15 4:30:00,105,Paulista,cartão de memória
+2018-01-15 5:00:00,125,Macae,processador
+2018-01-15 5:30:00,156,Nova Iguacu,cartão de memória 32gb microsd classe 10
+2018-01-15 6:00:00,135,Vassouras,mouse com fio
+2018-01-15 6:30:00,101,Canoas,mochila de notebook 15 pol
+2018-01-15 7:00:00,169,Olinda,monitor
+2018-01-15 7:30:00,132,Marica,cartão de memória microsd 16gb
+2018-01-15 8:00:00,58,Teresopolis,fonte
+2018-01-15 8:30:00,137,Canoas,headset com microfone
+2018-01-15 9:00:00,150,Resende,cabo p2
+2018-01-15 9:30:00,136,Cachoeira do Sul,maleta para notebook
+2018-01-15 10:00:00,133,Cacapava do Sul,memória ddr3 16gb
+2018-01-15 10:30:00,77,Duque de Caxias,processador
+2018-01-15 11:00:00,151,Nova Friburgo,headset com microfone
+2018-01-15 11:30:00,101,Santo Antonio de Padua,chaveador
+2018-01-15 12:00:00,106,Cachoeira do Sul,mochile de notebook 17 pol
+2018-01-15 12:30:00,79,Arroio Grande,processador
+2018-01-15 13:00:00,149,Serra Talhada,memória ddr3 8gb
+2018-01-15 13:30:00,131,Salgueiro,cartão de memória microsd 8gb
+2018-01-15 14:00:00,80,Bom Jesus do Itabapoana,cabo HDMI
+2018-01-15 14:30:00,81,Cachoeira do Sul,fonte
+2018-01-15 15:00:00,117,Cachoeira do Sul,cartão de memória 32gb microsd classe 10
+2018-01-15 15:30:00,145,Petrolina,headset com microfone
+2018-01-15 16:00:00,172,Nova Friburgo,maleta para notebook
+2018-01-15 16:30:00,101,Bento Goncalves,mouse com fio
+2018-01-15 17:00:00,145,Cabo Frio,mochile de notebook 17 pol
+2018-01-15 17:30:00,129,Gravata,cartão de memória 32gb microsd classe 10
+2018-01-15 18:00:00,77,Arroio dos Ratos,cartão de memória
+2018-01-15 18:30:00,165,Petrolina,cartão de memória microsd 16gb
+2018-01-15 19:00:00,130,Jaboatao dos Guararapes,monitor
+2018-01-15 19:30:00,121,Cacapava do Sul,cabo p2
+2018-01-15 20:00:00,157,Valenca,cabo p2
+2018-01-15 20:30:00,154,Araripina,mouse sem fio
+2018-01-15 21:00:00,66,Petropolis,cabo p2
+2018-01-15 21:30:00,130,Serra Talhada,processador
+2018-01-15 22:00:00,77,Vassouras,maleta para notebook
+2018-01-15 22:30:00,69,Rio Bonito,cartão de memória
+2018-01-15 23:00:00,165,Arcoverde,mouse com fio
+2018-01-15 23:30:00,120,Nova Iguacu,chaveador
+2018-01-16 0:00:00,117,Macae,cartão de memória microsd 16gb
+2018-01-16 0:30:00,130,Cangucu,headset com microfone
+2018-01-16 1:00:00,121,Cabo Frio,cartão de memória microsd 16gb
+2018-01-16 1:30:00,117,Carpina,fone sem fio
+2018-01-16 2:00:00,95,Caxias do Sul,mouse com fio
+2018-01-16 2:30:00,69,Vitoria de Santo Antao,maleta para notebook
+2018-01-16 3:00:00,97,Carazinho,cartão de memória microsd 16gb
+2018-01-16 3:30:00,73,Barra do Pirai,chaveador
+2018-01-16 4:00:00,163,Itaguai,chaveador
+2018-01-16 4:30:00,109,Nova Iguacu,cartão de memória 32gb microsd classe 10
+2018-01-16 5:00:00,112,Carazinho,mouse com fio
+2018-01-16 5:30:00,127,Bage,mouse sem fio
+2018-01-16 6:00:00,131,Arroio do Tigre,cabo p2
+2018-01-16 6:30:00,138,Duque de Caxias,cabo HDMI
+2018-01-16 7:00:00,152,Canoas,cabo p2
+2018-01-16 7:30:00,55,Paracambi,memória ddr3 16gb
+2018-01-16 8:00:00,159,Cachoeirinha,cartão de memória microsd 16gb
+2018-01-16 8:30:00,130,Timbauba,memória ddr3 8gb
+2018-01-16 9:00:00,61,Carpina,adaptador HDMI/VGA
+2018-01-16 9:30:00,68,Valenca,mouse sem fio
+2018-01-16 10:00:00,80,Pesqueira,monitor
+2018-01-16 10:30:00,72,Canoas,mochila de notebook 15 pol
+2018-01-16 11:00:00,94,Butia,memória ddr4 8gb
+2018-01-16 11:30:00,58,Arroio dos Ratos,cartão de memória microsd 8gb
+2018-01-16 12:00:00,108,Canela,memória ddr3 16gb
+2018-01-16 12:30:00,86,Santo Antonio de Padua,processador
+2018-01-16 13:00:00,112,Caruaru,mouse sem fio
+2018-01-16 13:30:00,62,Rio de Janeiro,headset com microfone
+2018-01-16 14:00:00,82,Olinda,adaptador HDMI/VGA
+2018-01-16 14:30:00,126,Paulista,processador
+2018-01-16 15:00:00,116,Angra dos Reis,memória ddr3 16gb
+2018-01-16 15:30:00,153,Bento Goncalves,fonte
+2018-01-16 16:00:00,80,Arcoverde,monitor
+2018-01-16 16:30:00,170,Arroio dos Ratos,mochila de notebook 15 pol
+2018-01-16 17:00:00,89,Valenca,monitor
+2018-01-16 17:30:00,174,Cacapava do Sul,monitor
+2018-01-16 18:00:00,64,Rio das Ostras,fonte
+2018-01-16 18:30:00,154,Jaboatao dos Guararapes,memória ddr3 8gb
+2018-01-16 19:00:00,174,Barra do Pirai,cartão de memória microsd 8gb
+2018-01-16 19:30:00,102,Canela,mouse sem fio
+2018-01-16 20:00:00,169,Sao Pedro da Aldeia,fone sem fio
+2018-01-16 20:30:00,87,Quissama,monitor
+2018-01-16 21:00:00,77,Duque de Caxias,memória ddr4 8gb
+2018-01-16 21:30:00,131,Sao Lourenco da Mata,cartão de memória
+2018-01-16 22:00:00,79,Campos dos Goytacazes,maleta para notebook
+2018-01-16 22:30:00,148,Volta Redonda,mochile de notebook 17 pol
+2018-01-16 23:00:00,108,Quissama,cartão de memória microsd 16gb
+2018-01-16 23:30:00,153,Macae,cabo p2
+2018-01-17 0:00:00,130,Nilopolis,mochile de notebook 17 pol
+2018-01-17 0:30:00,158,Mage,cartão de memória 32gb microsd classe 10
+2018-01-17 1:00:00,82,Barra do Pirai,cabo p2
+2018-01-17 1:30:00,99,Marica,cartão de memória microsd 8gb
+2018-01-17 2:00:00,156,Carazinho,memória ddr4 8gb
+2018-01-17 2:30:00,57,Timbauba,maleta para notebook
+2018-01-17 3:00:00,65,Recife,fonte
+2018-01-17 3:30:00,157,Volta Redonda,headset com microfone
+2018-01-17 4:00:00,165,Arroio do Tigre,maleta para notebook
+2018-01-17 4:30:00,83,Bom Jesus do Itabapoana,cartão de memória 32gb microsd classe 10
+2018-01-17 5:00:00,69,Alvorada,mochila de notebook 15 pol
+2018-01-17 5:30:00,146,Cachoeirinha,headset com microfone
+2018-01-17 6:00:00,114,Resende,cartão de memória microsd 16gb
+2018-01-17 6:30:00,145,Butia,mouse sem fio
+2018-01-17 7:00:00,79,Canela,adaptador HDMI/VGA
+2018-01-17 7:30:00,95,Paulista,chaveador
+2018-01-17 8:00:00,171,Jaboatao dos Guararapes,fonte
+2018-01-17 8:30:00,163,Sao Lourenco da Mata,cartão de memória
+2018-01-17 9:00:00,158,Jaboatao dos Guararapes,mouse sem fio
+2018-01-17 9:30:00,121,Jaboatao dos Guararapes,fonte
+2018-01-17 10:00:00,147,Olinda,maleta para notebook
+2018-01-17 10:30:00,167,Casca,cabo HDMI
+2018-01-17 11:00:00,68,Rio das Ostras,fone sem fio
+2018-01-17 11:30:00,75,Paracambi,fone sem fio
+2018-01-17 12:00:00,148,Nilopolis,memória ddr3 8gb
+2018-01-17 12:30:00,97,Itaperuna,cartão de memória microsd 8gb
+2018-01-17 13:00:00,56,Teresopolis,cabo HDMI
+2018-01-17 13:30:00,122,Caxias do Sul,fone sem fio
+2018-01-17 14:00:00,153,Araripina,processador
+2018-01-17 14:30:00,165,Canela,cartão de memória
+2018-01-17 15:00:00,128,Alvorada,mouse sem fio
+2018-01-17 15:30:00,133,Canoas,cartão de memória microsd 16gb
+2018-01-17 16:00:00,121,Carazinho,monitor
+2018-01-17 16:30:00,166,Sao Pedro da Aldeia,cartão de memória
+2018-01-17 17:00:00,158,Bom Jesus do Itabapoana,headset com microfone
+2018-01-17 17:30:00,125,Canela,cartão de memória
+2018-01-17 18:00:00,168,Volta Redonda,monitor
+2018-01-17 18:30:00,61,Vitoria de Santo Antao,headset com microfone
+2018-01-17 19:00:00,160,Cachoeira do Sul,headset com microfone
+2018-01-17 19:30:00,157,Serra Talhada,headset com microfone
+2018-01-17 20:00:00,144,Garanhuns,headset com microfone
+2018-01-17 20:30:00,85,Olinda,mochila de notebook 15 pol
+2018-01-17 21:00:00,73,Itaborai,memória ddr4 8gb
+2018-01-17 21:30:00,82,Arcoverde,cabo HDMI
+2018-01-17 22:00:00,135,Bage,cabo p2
+2018-01-17 22:30:00,102,Cangucu,memória ddr3 8gb
+2018-01-17 23:00:00,154,Afogados da Ingazeira,cabo p2
+2018-01-17 23:30:00,159,Vitoria de Santo Antao,headset com microfone
+2018-01-18 0:00:00,75,Arroio Grande,memória ddr3 16gb
+2018-01-18 0:30:00,156,Cachoeirinha,maleta para notebook
+2018-01-18 1:00:00,133,Mage,chaveador
+2018-01-18 1:30:00,65,Paulista,cartão de memória
+2018-01-18 2:00:00,95,Carazinho,memória ddr4 8gb
+2018-01-18 2:30:00,75,Resende,memória ddr4 8gb
+2018-01-18 3:00:00,67,Paulista,memória ddr4 8gb
+2018-01-18 3:30:00,74,Cachoeirinha,headset com microfone
+2018-01-18 4:00:00,120,Tres Rios,chaveador
+2018-01-18 4:30:00,85,Alegrete,maleta para notebook
+2018-01-18 5:00:00,150,Alegrete,memória ddr3 8gb
+2018-01-18 5:30:00,140,Cabo de Santo Agostinho,cartão de memória microsd 16gb
+2018-01-18 6:00:00,128,Olinda,maleta para notebook
+2018-01-18 6:30:00,152,Bage,cabo p2
+2018-01-18 7:00:00,65,Mage,cartão de memória 32gb microsd classe 10
+2018-01-18 7:30:00,114,Resende,monitor
+2018-01-18 8:00:00,117,Cabo Frio,cabo HDMI
+2018-01-18 8:30:00,158,Sao Pedro da Aldeia,adaptador HDMI/VGA
+2018-01-18 9:00:00,170,Cachoeirinha,processador
+2018-01-18 9:30:00,97,Marica,memória ddr3 8gb
+2018-01-18 10:00:00,91,Nova Iguacu,mouse sem fio
+2018-01-18 10:30:00,71,Teresopolis,memória ddr3 8gb
+2018-01-18 11:00:00,109,Cachoeira do Sul,fonte
+2018-01-18 11:30:00,68,Valenca,fonte
+2018-01-18 12:00:00,94,Santo Antonio de Padua,cartão de memória microsd 16gb
+2018-01-18 12:30:00,107,Mage,mochila de notebook 15 pol
+2018-01-18 13:00:00,106,Tres Rios,memória ddr3 16gb
+2018-01-18 13:30:00,81,Pesqueira,cartão de memória microsd 16gb
+2018-01-18 14:00:00,55,Mage,mouse sem fio
+2018-01-18 14:30:00,55,Alegrete,memória ddr3 8gb
+2018-01-18 15:00:00,115,Gravata,processador
+2018-01-18 15:30:00,168,Teresopolis,chaveador
+2018-01-18 16:00:00,166,Olinda,cabo HDMI
+2018-01-18 16:30:00,127,Santo Antonio de Padua,adaptador HDMI/VGA
+2018-01-18 17:00:00,114,Vitoria de Santo Antao,cartão de memória microsd 8gb
+2018-01-18 17:30:00,103,Vassouras,mochile de notebook 17 pol
+2018-01-18 18:00:00,126,Bage,processador
+2018-01-18 18:30:00,126,Pesqueira,adaptador HDMI/VGA
+2018-01-18 19:00:00,150,Bento Goncalves,cartão de memória
+2018-01-18 19:30:00,77,Jaboatao dos Guararapes,memória ddr4 8gb
+2018-01-18 20:00:00,172,Recife,mouse sem fio
+2018-01-18 20:30:00,105,Casca,cartão de memória microsd 16gb
+2018-01-18 21:00:00,147,Arcoverde,processador
+2018-01-18 21:30:00,67,Afogados da Ingazeira,cartão de memória
+2018-01-18 22:00:00,133,Araripina,cartão de memória
+2018-01-18 22:30:00,133,Cachoeira do Sul,fone sem fio
+2018-01-18 23:00:00,98,Paulista,memória ddr3 16gb
+2018-01-18 23:30:00,150,Duque de Caxias,maleta para notebook
+2018-01-19 0:00:00,83,Gravata,cartão de memória 32gb microsd classe 10
+2018-01-19 0:30:00,109,Barra do Pirai,cartão de memória 32gb microsd classe 10
+2018-01-19 1:00:00,173,Alegrete,memória ddr4 8gb
+2018-01-19 1:30:00,150,Afogados da Ingazeira,adaptador HDMI/VGA
+2018-01-19 2:00:00,134,Bento Goncalves,cartão de memória 32gb microsd classe 10
+2018-01-19 2:30:00,130,Canela,cabo HDMI
+2018-01-19 3:00:00,166,Bento Goncalves,headset com microfone
+2018-01-19 3:30:00,94,Vassouras,adaptador HDMI/VGA
+2018-01-19 4:00:00,131,Arroio dos Ratos,processador
+2018-01-19 4:30:00,140,Marica,memória ddr4 8gb
+2018-01-19 5:00:00,106,Itaperuna,fone sem fio
+2018-01-19 5:30:00,97,Valenca,chaveador
+2018-01-19 6:00:00,152,Paracambi,cabo HDMI
+2018-01-19 6:30:00,68,Nilopolis,memória ddr3 16gb
+2018-01-19 7:00:00,115,Alegrete,cartão de memória
+2018-01-19 7:30:00,66,Araripina,memória ddr3 8gb
+2018-01-19 8:00:00,131,Paulista,cartão de memória 32gb microsd classe 10
+2018-01-19 8:30:00,55,Cabo Frio,cabo p2
+2018-01-19 9:00:00,142,Itaguai,fone sem fio
+2018-01-19 9:30:00,87,Campos dos Goytacazes,mochile de notebook 17 pol
+2018-01-19 10:00:00,89,Petrolina,cartão de memória 32gb microsd classe 10
+2018-01-19 10:30:00,90,Bom Jesus do Itabapoana,chaveador
+2018-01-19 11:00:00,65,Tres Rios,mouse sem fio
+2018-01-19 11:30:00,172,Santa Cruz do Capibaribe,headset com microfone
+2018-01-19 12:00:00,132,Vassouras,processador
+2018-01-19 12:30:00,146,Petrolina,mouse sem fio
+2018-01-19 13:00:00,89,Olinda,memória ddr3 8gb
+2018-01-19 13:30:00,105,Barra do Pirai,monitor
+2018-01-19 14:00:00,168,Caxias do Sul,adaptador HDMI/VGA
+2018-01-19 14:30:00,121,Recife,cartão de memória microsd 8gb
+2018-01-19 15:00:00,101,Serra Talhada,processador
+2018-01-19 15:30:00,102,Resende,cartão de memória 32gb microsd classe 10
+2018-01-19 16:00:00,73,Volta Redonda,cabo HDMI
+2018-01-19 16:30:00,154,Jaboatao dos Guararapes,fone sem fio
+2018-01-19 17:00:00,105,Niteroi,mouse sem fio
+2018-01-19 17:30:00,143,Tres Rios,mouse com fio
+2018-01-19 18:00:00,61,Campos dos Goytacazes,cartão de memória
+2018-01-19 18:30:00,134,Afogados da Ingazeira,adaptador HDMI/VGA
+2018-01-19 19:00:00,148,Volta Redonda,chaveador
+2018-01-19 19:30:00,93,Volta Redonda,mochila de notebook 15 pol
+2018-01-19 20:00:00,100,Itaguai,headset com microfone
+2018-01-19 20:30:00,75,Arroio do Tigre,adaptador HDMI/VGA
+2018-01-19 21:00:00,110,Marica,cabo p2
+2018-01-19 21:30:00,87,Caruaru,fone sem fio
+2018-01-19 22:00:00,79,Cangucu,memória ddr3 16gb
+2018-01-19 22:30:00,124,Petrolina,cartão de memória microsd 8gb
+2018-01-19 23:00:00,158,Sao Pedro da Aldeia,monitor
+2018-01-19 23:30:00,85,Recife,monitor
+2018-01-20 0:00:00,96,Araripina,cartão de memória microsd 8gb
+2018-01-20 0:30:00,155,Bento Goncalves,memória ddr4 8gb
+2018-01-20 1:00:00,64,Petropolis,fone sem fio
+2018-01-20 1:30:00,97,Canela,cabo p2
+2018-01-20 2:00:00,165,Campo Novo,cabo HDMI
+2018-01-20 2:30:00,72,Arroio do Tigre,mouse com fio
+2018-01-20 3:00:00,172,Canela,mochile de notebook 17 pol
+2018-01-20 3:30:00,154,Araripina,monitor
+2018-01-20 4:00:00,56,Santo Antonio de Padua,memória ddr3 8gb
+2018-01-20 4:30:00,117,Mage,chaveador
+2018-01-20 5:00:00,113,Araripina,cabo HDMI
+2018-01-20 5:30:00,160,Afogados da Ingazeira,fone sem fio
+2018-01-20 6:00:00,107,Santa Cruz do Capibaribe,mouse com fio
+2018-01-20 6:30:00,148,Santo Antonio de Padua,mouse sem fio
+2018-01-20 7:00:00,77,Petrolina,cartão de memória microsd 16gb
+2018-01-20 7:30:00,111,Canoas,processador
+2018-01-20 8:00:00,98,Sao Goncalo,memória ddr3 8gb
+2018-01-20 8:30:00,160,Carpina,adaptador HDMI/VGA
+2018-01-20 9:00:00,132,Vassouras,processador
+2018-01-20 9:30:00,153,Duque de Caxias,cartão de memória microsd 16gb
+2018-01-20 10:00:00,128,Cachoeira do Sul,cabo HDMI
+2018-01-20 10:30:00,120,Duque de Caxias,cartão de memória
+2018-01-20 11:00:00,114,Canoas,headset com microfone
+2018-01-20 11:30:00,126,Caxias do Sul,mouse sem fio
+2018-01-20 12:00:00,74,Petrolina,cartão de memória microsd 8gb
+2018-01-20 12:30:00,87,Marica,mochila de notebook 15 pol
+2018-01-20 13:00:00,65,Bage,adaptador HDMI/VGA
+2018-01-20 13:30:00,158,Barra do Pirai,fone sem fio
+2018-01-20 14:00:00,123,Canoas,monitor
+2018-01-20 14:30:00,78,Campos dos Goytacazes,adaptador HDMI/VGA
+2018-01-20 15:00:00,104,Cangucu,memória ddr3 8gb
+2018-01-20 15:30:00,125,Valenca,memória ddr3 16gb
+2018-01-20 16:00:00,118,Carpina,monitor
+2018-01-20 16:30:00,56,Angra dos Reis,monitor
+2018-01-20 17:00:00,151,Rio Bonito,memória ddr4 8gb
+2018-01-20 17:30:00,133,Arroio dos Ratos,cabo p2
+2018-01-20 18:00:00,151,Arroio Grande,monitor
+2018-01-20 18:30:00,81,Angra dos Reis,cartão de memória microsd 8gb
+2018-01-20 19:00:00,162,Alegrete,memória ddr3 16gb
+2018-01-20 19:30:00,67,Araripina,processador
+2018-01-20 20:00:00,118,Volta Redonda,fone sem fio
+2018-01-20 20:30:00,84,Quissama,fonte
+2018-01-20 21:00:00,116,Arroio do Tigre,headset com microfone
+2018-01-20 21:30:00,108,Arcoverde,mouse com fio
+2018-01-20 22:00:00,143,Santa Cruz do Capibaribe,memória ddr3 16gb
+2018-01-20 22:30:00,141,Rio das Ostras,headset com microfone
+2018-01-20 23:00:00,125,Vassouras,adaptador HDMI/VGA
+2018-01-20 23:30:00,165,Nova Iguacu,mouse com fio
+2018-01-21 0:00:00,167,Teresopolis,mochila de notebook 15 pol
+2018-01-21 0:30:00,70,Parati,cabo HDMI
+2018-01-21 1:00:00,162,Salgueiro,mouse com fio
+2018-01-21 1:30:00,127,Rio Bonito,cabo p2
+2018-01-21 2:00:00,145,Caxias do Sul,chaveador
+2018-01-21 2:30:00,170,Rio Bonito,mochila de notebook 15 pol
+2018-01-21 3:00:00,97,Serra Talhada,cartão de memória
+2018-01-21 3:30:00,163,Araripina,cartão de memória 32gb microsd classe 10
+2018-01-21 4:00:00,107,Arroio Grande,cartão de memória 32gb microsd classe 10
+2018-01-21 4:30:00,166,Petrolina,cartão de memória 32gb microsd classe 10
+2018-01-21 5:00:00,75,Araripina,mochile de notebook 17 pol
+2018-01-21 5:30:00,139,Sao Goncalo,mouse sem fio
+2018-01-21 6:00:00,137,Quissama,cartão de memória microsd 16gb
+2018-01-21 6:30:00,114,Valenca,memória ddr4 8gb
+2018-01-21 7:00:00,59,Alegrete,mochila de notebook 15 pol
+2018-01-21 7:30:00,113,Caruaru,cartão de memória microsd 16gb
+2018-01-21 8:00:00,152,Carazinho,cabo p2
+2018-01-21 8:30:00,87,Sao Goncalo,cartão de memória microsd 16gb
+2018-01-21 9:00:00,116,Teresopolis,memória ddr4 8gb
+2018-01-21 9:30:00,96,Angra dos Reis,mochile de notebook 17 pol
+2018-01-21 10:00:00,78,Caxias do Sul,cartão de memória microsd 16gb
+2018-01-21 10:30:00,164,Nova Iguacu,processador
+2018-01-21 11:00:00,95,Salgueiro,mouse sem fio
+2018-01-21 11:30:00,138,Salgueiro,processador
+2018-01-21 12:00:00,62,Salgueiro,memória ddr3 8gb
+2018-01-21 12:30:00,165,Araripina,chaveador
+2018-01-21 13:00:00,152,Paracambi,mochile de notebook 17 pol
+2018-01-21 13:30:00,166,Arcoverde,mouse sem fio
+2018-01-21 14:00:00,120,Casca,adaptador HDMI/VGA
+2018-01-21 14:30:00,76,Marica,chaveador
+2018-01-21 15:00:00,60,Paulista,maleta para notebook
+2018-01-21 15:30:00,86,Santa Cruz do Capibaribe,mochile de notebook 17 pol
+2018-01-21 16:00:00,120,Salgueiro,mouse com fio
+2018-01-21 16:30:00,103,Duque de Caxias,mouse sem fio
+2018-01-21 17:00:00,141,Cabo de Santo Agostinho,cartão de memória microsd 8gb
+2018-01-21 17:30:00,73,Vassouras,cartão de memória
+2018-01-21 18:00:00,159,Cangucu,cartão de memória microsd 8gb
+2018-01-21 18:30:00,101,Duque de Caxias,fone sem fio
+2018-01-21 19:00:00,64,Araripina,cartão de memória microsd 8gb
+2018-01-21 19:30:00,169,Valenca,chaveador
+2018-01-21 20:00:00,93,Casca,fonte
+2018-01-21 20:30:00,97,Rio Bonito,cartão de memória microsd 8gb
+2018-01-21 21:00:00,102,Afogados da Ingazeira,memória ddr3 16gb
+2018-01-21 21:30:00,129,Gravata,chaveador
+2018-01-21 22:00:00,109,Cacapava do Sul,chaveador
+2018-01-21 22:30:00,79,Nova Iguacu,fonte
+2018-01-21 23:00:00,61,Casca,adaptador HDMI/VGA
+2018-01-21 23:30:00,169,Barra do Pirai,cartão de memória 32gb microsd classe 10
+2018-01-22 0:00:00,64,Cabo Frio,mochila de notebook 15 pol
+2018-01-22 0:30:00,121,Campo Novo,monitor
+2018-01-22 1:00:00,78,Carazinho,memória ddr3 8gb
+2018-01-22 1:30:00,85,Itaborai,adaptador HDMI/VGA
+2018-01-22 2:00:00,123,Teresopolis,processador
+2018-01-22 2:30:00,116,Casca,processador
+2018-01-22 3:00:00,111,Gravata,cabo HDMI
+2018-01-22 3:30:00,86,Arroio dos Ratos,monitor
+2018-01-22 4:00:00,108,Bage,headset com microfone
+2018-01-22 4:30:00,152,Arroio dos Ratos,memória ddr4 8gb
+2018-01-22 5:00:00,118,Caxias do Sul,processador
+2018-01-22 5:30:00,144,Olinda,cartão de memória microsd 8gb
+2018-01-22 6:00:00,77,Niteroi,fone sem fio
+2018-01-22 6:30:00,106,Araripina,cartão de memória microsd 8gb
+2018-01-22 7:00:00,157,Canoas,mochile de notebook 17 pol
+2018-01-22 7:30:00,69,Angra dos Reis,monitor
+2018-01-22 8:00:00,139,Bom Jesus do Itabapoana,processador
+2018-01-22 8:30:00,173,Pesqueira,fone sem fio
+2018-01-22 9:00:00,57,Arcoverde,headset com microfone
+2018-01-22 9:30:00,139,Garanhuns,fonte
+2018-01-22 10:00:00,90,Nilopolis,mochile de notebook 17 pol
+2018-01-22 10:30:00,88,Barra do Pirai,cartão de memória microsd 8gb
+2018-01-22 11:00:00,132,Cabo Frio,cartão de memória microsd 16gb
+2018-01-22 11:30:00,55,Caruaru,cartão de memória microsd 8gb
+2018-01-22 12:00:00,168,Arroio Grande,maleta para notebook
+2018-01-22 12:30:00,98,Petropolis,memória ddr4 8gb
+2018-01-22 13:00:00,83,Cabo de Santo Agostinho,mochila de notebook 15 pol
+2018-01-22 13:30:00,155,Barra do Pirai,cartão de memória
+2018-01-22 14:00:00,92,Parati,cartão de memória microsd 16gb
+2018-01-22 14:30:00,75,Serra Talhada,mochile de notebook 17 pol
+2018-01-22 15:00:00,74,Cangucu,memória ddr3 16gb
+2018-01-22 15:30:00,173,Arroio dos Ratos,mochila de notebook 15 pol
+2018-01-22 16:00:00,101,Cacapava do Sul,mouse sem fio
+2018-01-22 16:30:00,81,Vitoria de Santo Antao,cartão de memória
+2018-01-22 17:00:00,77,Itaborai,cartão de memória microsd 16gb
+2018-01-22 17:30:00,120,Mage,fonte
+2018-01-22 18:00:00,79,Santo Antonio de Padua,monitor
+2018-01-22 18:30:00,58,Itaperuna,fone sem fio
+2018-01-22 19:00:00,94,Angra dos Reis,processador
+2018-01-22 19:30:00,116,Nova Iguacu,cartão de memória 32gb microsd classe 10
+2018-01-22 20:00:00,154,Rio das Ostras,cabo p2
+2018-01-22 20:30:00,98,Carazinho,fone sem fio
+2018-01-22 21:00:00,166,Canela,memória ddr4 8gb
+2018-01-22 21:30:00,159,Garanhuns,mouse sem fio
+2018-01-22 22:00:00,109,Quissama,memória ddr4 8gb
+2018-01-22 22:30:00,83,Santa Cruz do Capibaribe,adaptador HDMI/VGA
+2018-01-22 23:00:00,86,Gravata,mochile de notebook 17 pol
+2018-01-22 23:30:00,148,Volta Redonda,chaveador
+2018-01-23 0:00:00,157,Canoas,memória ddr3 8gb
+2018-01-23 0:30:00,95,Angra dos Reis,adaptador HDMI/VGA
+2018-01-23 1:00:00,154,Itaborai,cartão de memória 32gb microsd classe 10
+2018-01-23 1:30:00,79,Rio de Janeiro,cartão de memória 32gb microsd classe 10
+2018-01-23 2:00:00,154,Macae,memória ddr3 8gb
+2018-01-23 2:30:00,122,Cacapava do Sul,mouse sem fio
+2018-01-23 3:00:00,121,Timbauba,fone sem fio
+2018-01-23 3:30:00,98,Rio Bonito,cartão de memória 32gb microsd classe 10
+2018-01-23 4:00:00,123,Alvorada,cartão de memória 32gb microsd classe 10
+2018-01-23 4:30:00,168,Itaborai,cabo HDMI
+2018-01-23 5:00:00,141,Casca,memória ddr3 16gb
+2018-01-23 5:30:00,139,Petropolis,maleta para notebook
+2018-01-23 6:00:00,106,Jaboatao dos Guararapes,cartão de memória microsd 16gb
+2018-01-23 6:30:00,121,Pesqueira,fonte
+2018-01-23 7:00:00,96,Butia,cartão de memória microsd 16gb
+2018-01-23 7:30:00,110,Bage,adaptador HDMI/VGA
+2018-01-23 8:00:00,73,Nova Friburgo,mouse com fio
+2018-01-23 8:30:00,101,Santo Antonio de Padua,cartão de memória microsd 16gb
+2018-01-23 9:00:00,139,Afogados da Ingazeira,memória ddr3 16gb
+2018-01-23 9:30:00,133,Caxias do Sul,mouse com fio
+2018-01-23 10:00:00,108,Cacapava do Sul,mochila de notebook 15 pol
+2018-01-23 10:30:00,70,Sao Pedro da Aldeia,headset com microfone
+2018-01-23 11:00:00,142,Canoas,fonte
+2018-01-23 11:30:00,106,Alegrete,mouse com fio
+2018-01-23 12:00:00,122,Afogados da Ingazeira,adaptador HDMI/VGA
+2018-01-23 12:30:00,65,Mage,monitor
+2018-01-23 13:00:00,150,Nova Friburgo,memória ddr3 8gb
+2018-01-23 13:30:00,119,Carpina,fonte
+2018-01-23 14:00:00,112,Bom Jesus do Itabapoana,fonte
+2018-01-23 14:30:00,122,Bage,headset com microfone
+2018-01-23 15:00:00,66,Campo Novo,mochila de notebook 15 pol
+2018-01-23 15:30:00,124,Afogados da Ingazeira,memória ddr4 8gb
+2018-01-23 16:00:00,117,Vitoria de Santo Antao,memória ddr3 8gb
+2018-01-23 16:30:00,81,Campo Novo,cabo p2
+2018-01-23 17:00:00,164,Itaperuna,monitor
+2018-01-23 17:30:00,167,Vassouras,cabo HDMI
+2018-01-23 18:00:00,155,Rio Bonito,mouse sem fio
+2018-01-23 18:30:00,78,Petropolis,cabo HDMI
+2018-01-23 19:00:00,85,Olinda,chaveador
+2018-01-23 19:30:00,91,Nova Friburgo,cabo HDMI
+2018-01-23 20:00:00,57,Nova Friburgo,memória ddr3 16gb
+2018-01-23 20:30:00,79,Canoas,maleta para notebook
+2018-01-23 21:00:00,163,Pesqueira,mochile de notebook 17 pol
+2018-01-23 21:30:00,60,Mage,memória ddr4 8gb
+2018-01-23 22:00:00,83,Parati,memória ddr3 16gb
+2018-01-23 22:30:00,167,Arroio Grande,maleta para notebook
+2018-01-23 23:00:00,174,Sao Lourenco da Mata,mouse sem fio
+2018-01-23 23:30:00,68,Gravata,fone sem fio
+2018-01-24 0:00:00,167,Salgueiro,memória ddr3 16gb
+2018-01-24 0:30:00,150,Campo Novo,memória ddr3 8gb
+2018-01-24 1:00:00,87,Campo Novo,cartão de memória
+2018-01-24 1:30:00,131,Canoas,processador
+2018-01-24 2:00:00,58,Angra dos Reis,mouse com fio
+2018-01-24 2:30:00,79,Quissama,mochile de notebook 17 pol
+2018-01-24 3:00:00,160,Caruaru,adaptador HDMI/VGA
+2018-01-24 3:30:00,168,Nova Friburgo,chaveador
+2018-01-24 4:00:00,55,Vassouras,fone sem fio
+2018-01-24 4:30:00,69,Rio Bonito,memória ddr4 8gb
+2018-01-24 5:00:00,126,Itaguai,cartão de memória 32gb microsd classe 10
+2018-01-24 5:30:00,125,Cangucu,cartão de memória microsd 8gb
+2018-01-24 6:00:00,165,Valenca,fonte
+2018-01-24 6:30:00,70,Vassouras,memória ddr3 16gb
+2018-01-24 7:00:00,125,Nova Iguacu,adaptador HDMI/VGA
+2018-01-24 7:30:00,65,Macae,cartão de memória microsd 8gb
+2018-01-24 8:00:00,131,Barra do Pirai,mochile de notebook 17 pol
+2018-01-24 8:30:00,165,Carazinho,fone sem fio
+2018-01-24 9:00:00,142,Canoas,memória ddr4 8gb
+2018-01-24 9:30:00,60,Nova Friburgo,memória ddr3 16gb
+2018-01-24 10:00:00,159,Cachoeira do Sul,cartão de memória
+2018-01-24 10:30:00,69,Arroio dos Ratos,fonte
+2018-01-24 11:00:00,131,Nilopolis,cartão de memória microsd 16gb
+2018-01-24 11:30:00,170,Vassouras,headset com microfone
+2018-01-24 12:00:00,59,Nilopolis,fone sem fio
+2018-01-24 12:30:00,77,Cachoeirinha,cabo HDMI
+2018-01-24 13:00:00,158,Parati,memória ddr3 8gb
+2018-01-24 13:30:00,87,Vassouras,processador
+2018-01-24 14:00:00,92,Petropolis,memória ddr3 8gb
+2018-01-24 14:30:00,172,Bage,mochila de notebook 15 pol
+2018-01-24 15:00:00,159,Araripina,processador
+2018-01-24 15:30:00,142,Quissama,cartão de memória
+2018-01-24 16:00:00,109,Valenca,cartão de memória
+2018-01-24 16:30:00,84,Petropolis,adaptador HDMI/VGA
+2018-01-24 17:00:00,90,Rio das Ostras,mouse com fio
+2018-01-24 17:30:00,75,Araripina,adaptador HDMI/VGA
+2018-01-24 18:00:00,137,Quissama,cabo HDMI
+2018-01-24 18:30:00,148,Itaperuna,cartão de memória 32gb microsd classe 10
+2018-01-24 19:00:00,85,Bento Goncalves,memória ddr4 8gb
+2018-01-24 19:30:00,162,Jaboatao dos Guararapes,memória ddr3 16gb
+2018-01-24 20:00:00,107,Sao Pedro da Aldeia,adaptador HDMI/VGA
+2018-01-24 20:30:00,78,Nilopolis,processador
+2018-01-24 21:00:00,150,Gravata,mouse com fio
+2018-01-24 21:30:00,94,Bento Goncalves,cabo p2
+2018-01-24 22:00:00,63,Vitoria de Santo Antao,memória ddr3 16gb
+2018-01-24 22:30:00,124,Carpina,fone sem fio
+2018-01-24 23:00:00,170,Bage,maleta para notebook
+2018-01-24 23:30:00,117,Canela,fonte
+2018-01-25 0:00:00,137,Timbauba,chaveador
+2018-01-25 0:30:00,87,Canela,chaveador
+2018-01-25 1:00:00,158,Canela,mochila de notebook 15 pol
+2018-01-25 1:30:00,105,Carpina,fone sem fio
+2018-01-25 2:00:00,114,Caruaru,processador
+2018-01-25 2:30:00,106,Angra dos Reis,chaveador
+2018-01-25 3:00:00,79,Salgueiro,memória ddr3 8gb
+2018-01-25 3:30:00,170,Teresopolis,cartão de memória microsd 16gb
+2018-01-25 4:00:00,75,Rio das Ostras,fone sem fio
+2018-01-25 4:30:00,63,Arroio dos Ratos,memória ddr3 8gb
+2018-01-25 5:00:00,144,Nova Friburgo,maleta para notebook
+2018-01-25 5:30:00,102,Timbauba,memória ddr4 8gb
+2018-01-25 6:00:00,96,Salgueiro,adaptador HDMI/VGA
+2018-01-25 6:30:00,75,Afogados da Ingazeira,mochile de notebook 17 pol
+2018-01-25 7:00:00,166,Vitoria de Santo Antao,chaveador
+2018-01-25 7:30:00,138,Duque de Caxias,cartão de memória
+2018-01-25 8:00:00,113,Afogados da Ingazeira,mochila de notebook 15 pol
+2018-01-25 8:30:00,64,Arroio do Tigre,monitor
+2018-01-25 9:00:00,152,Resende,cabo HDMI
+2018-01-25 9:30:00,122,Cangucu,mouse com fio
+2018-01-25 10:00:00,69,Bage,cabo HDMI
+2018-01-25 10:30:00,75,Canoas,mouse com fio
+2018-01-25 11:00:00,100,Sao Pedro da Aldeia,processador
+2018-01-25 11:30:00,160,Angra dos Reis,memória ddr3 8gb
+2018-01-25 12:00:00,105,Itaguai,processador
+2018-01-25 12:30:00,91,Volta Redonda,cartão de memória microsd 8gb
+2018-01-25 13:00:00,173,Canoas,memória ddr3 8gb
+2018-01-25 13:30:00,127,Canoas,cartão de memória
+2018-01-25 14:00:00,71,Campo Novo,mochile de notebook 17 pol
+2018-01-25 14:30:00,133,Cabo de Santo Agostinho,mochila de notebook 15 pol
+2018-01-25 15:00:00,115,Angra dos Reis,memória ddr3 8gb
+2018-01-25 15:30:00,57,Santo Antonio de Padua,mochile de notebook 17 pol
+2018-01-25 16:00:00,169,Vassouras,memória ddr3 8gb
+2018-01-25 16:30:00,98,Angra dos Reis,mouse com fio
+2018-01-25 17:00:00,124,Sao Goncalo,cartão de memória microsd 16gb
+2018-01-25 17:30:00,108,Marica,fonte
+2018-01-25 18:00:00,109,Araripina,cartão de memória microsd 8gb
+2018-01-25 18:30:00,171,Paracambi,memória ddr3 8gb
+2018-01-25 19:00:00,153,Arroio dos Ratos,memória ddr3 8gb
+2018-01-25 19:30:00,150,Vitoria de Santo Antao,cabo p2
+2018-01-25 20:00:00,109,Bento Goncalves,memória ddr3 16gb
+2018-01-25 20:30:00,127,Niteroi,mochila de notebook 15 pol
+2018-01-25 21:00:00,91,Paulista,chaveador
+2018-01-25 21:30:00,130,Quissama,cartão de memória microsd 16gb
+2018-01-25 22:00:00,113,Araripina,cartão de memória microsd 8gb
+2018-01-25 22:30:00,75,Gravata,maleta para notebook
+2018-01-25 23:00:00,146,Arcoverde,mouse sem fio
+2018-01-25 23:30:00,139,Angra dos Reis,monitor
+2018-01-26 0:00:00,168,Cabo Frio,mouse com fio
+2018-01-26 0:30:00,61,Sao Lourenco da Mata,fonte
+2018-01-26 1:00:00,85,Valenca,mouse com fio
+2018-01-26 1:30:00,122,Campos dos Goytacazes,cartão de memória 32gb microsd classe 10
+2018-01-26 2:00:00,78,Petrolina,monitor
+2018-01-26 2:30:00,91,Arroio Grande,cartão de memória
+2018-01-26 3:00:00,153,Vitoria de Santo Antao,memória ddr4 8gb
+2018-01-26 3:30:00,69,Teresopolis,maleta para notebook
+2018-01-26 4:00:00,169,Afogados da Ingazeira,mouse sem fio
+2018-01-26 4:30:00,95,Duque de Caxias,memória ddr3 8gb
+2018-01-26 5:00:00,73,Butia,cabo p2
+2018-01-26 5:30:00,100,Santo Antonio de Padua,monitor
+2018-01-26 6:00:00,171,Arroio do Tigre,monitor
+2018-01-26 6:30:00,97,Teresopolis,mochila de notebook 15 pol
+2018-01-26 7:00:00,116,Campo Novo,memória ddr4 8gb
+2018-01-26 7:30:00,69,Campo Novo,fonte
+2018-01-26 8:00:00,120,Bage,processador
+2018-01-26 8:30:00,168,Araripina,mouse com fio
+2018-01-26 9:00:00,108,Cangucu,chaveador
+2018-01-26 9:30:00,103,Vitoria de Santo Antao,mochile de notebook 17 pol
+2018-01-26 10:00:00,81,Cacapava do Sul,cartão de memória microsd 16gb
+2018-01-26 10:30:00,167,Carpina,cartão de memória microsd 16gb
+2018-01-26 11:00:00,66,Bom Jesus do Itabapoana,cartão de memória microsd 16gb
+2018-01-26 11:30:00,72,Cabo de Santo Agostinho,processador
+2018-01-26 12:00:00,81,Itaperuna,cabo HDMI
+2018-01-26 12:30:00,171,Arroio do Tigre,monitor
+2018-01-26 13:00:00,153,Itaguai,cabo HDMI
+2018-01-26 13:30:00,172,Barra do Pirai,adaptador HDMI/VGA

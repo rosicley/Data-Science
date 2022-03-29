@@ -1,0 +1,817 @@
+uf_busca,cidade_busca,nome,grau,turno,mensalidade,bolsa_integral_cotas,bolsa_integral_ampla,bolsa_parcial_cotas,bolsa_parcial_ampla,nota_integral_ampla,nota_integral_cotas,nota_parcial_ampla,nota_parcial_cotas
+CE,Acarau,Administração,Bacharelado,Curso a Distância,269.00,3,1,0,0,611.66,583.88,0,0
+CE,Aracati,Administração,Bacharelado,Noturno,570.00,2,1,0,0,666.40,597.98,0,0
+CE,Aracati,Administração,Bacharelado,Matutino,444.00,1,1,0,0,626.60,632.52,0,0
+CE,Baturite,Administração,Bacharelado,Curso a Distância,402.65,1,0,0,0,597.02,0,0,0
+CE,Camocim,Administração,Bacharelado,Curso a Distância,229.00,3,1,0,0,592.50,586.50,0,0
+CE,Caninde,Administração,Bacharelado,Curso a Distância,259.00,3,1,0,0,589.60,577.64,0,0
+CE,Caucaia,Administração,Bacharelado,Matutino,715.00,0,0,0,50,0,0,498.60,0
+CE,Caucaia,Administração,Bacharelado,Noturno,715.00,0,0,0,50,0,0,526.08,0
+CE,Caucaia,Administração,Bacharelado,Curso a Distância,229.00,1,1,0,0,585.26,593.48,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,422.80,2,1,0,0,622.24,624.34,0,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,1133.40,4,2,0,0,641.14,631.90,0,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1133.40,4,2,0,0,653.98,635.16,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,422.80,3,2,0,0,627.04,575.40,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,422.80,2,1,0,0,624.48,582.18,0,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,684.29,3,2,0,0,632.34,631.72,0,0
+CE,Fortaleza,Administração,Bacharelado,Vespertino,627.14,3,1,0,0,643.88,625.60,0,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,741.43,1,0,0,0,634.10,0,0,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1125.00,0,2,0,0,644.42,0,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,298.00,0,0,1,0,0,0,588.98,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1125.00,1,0,1,1,643.64,0,587.62,605.24
+CE,Fortaleza,Administração,Bacharelado,Matutino,1125.00,1,1,1,1,649.52,632.00,642.78,583.34
+CE,Fortaleza,Administração,Bacharelado,Noturno,1125.00,1,1,1,1,644.24,623.08,599.86,573.16
+CE,Fortaleza,Administração,Bacharelado,Matutino,541.50,1,0,8,4,622.20,0,588.62,581.52
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,347.72,1,0,1,0,585.96,0,599.94,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,627.00,1,0,1,1,624.78,0,582.54,590.02
+CE,Fortaleza,Administração,Bacharelado,Noturno,522.54,1,0,6,3,663.72,0,578.12,575.62
+CE,Fortaleza,Administração,Bacharelado,Matutino,503.59,1,0,2,1,611.76,0,584.40,595.50
+CE,Fortaleza,Administração,Bacharelado,Noturno,517.34,3,2,0,0,615.32,615.90,0,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,517.34,2,1,0,0,632.20,618.08,0,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,715.00,0,0,0,70,0,0,504.08,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,580.00,0,0,0,74,0,0,520.46,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,1200.00,0,0,0,1,0,0,532.76,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1200.00,0,0,0,1,0,0,563.18,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,325.00,0,0,1,0,0,0,560.44,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,706.55,3,1,0,5,617.28,607.34,498.42,0
+CE,Fortaleza,Administração,Bacharelado,Vespertino,706.55,3,1,0,5,599.80,600.70,450.00,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,706.55,3,1,0,5,631.06,609.62,519.96,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,606.90,1,1,1,1,624.44,632.34,597.60,573.06
+CE,Fortaleza,Administração,Bacharelado,Matutino,627.00,0,0,3,2,0,0,595.80,604.84
+CE,Fortaleza,Administração,Bacharelado,Matutino,1152.70,0,0,0,60,0,0,450.00,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1152.70,0,0,0,60,0,0,490.40,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,1152.70,0,0,0,60,0,0,450.00,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,1152.70,0,0,0,60,0,0,450.00,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,522.50,2,1,0,0,608.92,614.46,0,0
+CE,Fortaleza,Administração,Bacharelado,Matutino,473.10,2,1,0,0,629.42,611.56,0,0
+CE,Fortaleza,Administração,Bacharelado,Noturno,792.50,5,2,0,0,633.78,629.62,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,279.00,5,2,0,0,589.90,584.30,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,319.00,1,1,0,0,577.56,577.62,0,0
+CE,Fortaleza,Administração,Bacharelado,Curso a Distância,259.00,21,10,0,0,596.02,596.92,0,0
+CE,Ico,Administração,Bacharelado,Noturno,611.21,1,1,0,0,619.96,624.74,0,0
+CE,Iguatu,Administração,Bacharelado,Curso a Distância,333.00,1,0,0,0,611.48,0,0,0
+CE,Iguatu,Administração,Bacharelado,Matutino,478.00,1,1,2,1,602.56,620.38,590.06,572.92
+CE,Iguatu,Administração,Bacharelado,Noturno,478.00,1,1,3,1,627.24,619.22,634.56,569.42
+CE,Itapipoca,Administração,Bacharelado,Curso a Distância,289.00,7,3,0,0,622.74,612.56,0,0
+CE,Juazeiro do Norte,Administração,Bacharelado,Noturno,746.82,1,0,0,0,633.42,0,0,0
+CE,Juazeiro do Norte,Administração,Bacharelado,Matutino,692.51,2,1,0,0,658.72,626.58,0,0
+CE,Juazeiro do Norte,Administração,Bacharelado,Noturno,615.60,3,2,0,0,623.10,625.04,0,0
+CE,Juazeiro do Norte,Administração,Bacharelado,Noturno,792.50,2,1,0,0,615.54,613.62,0,0
+CE,Limoeiro do Norte,Administração,Bacharelado,Noturno,486.00,1,1,0,25,622.96,606.46,531.78,0
+CE,Limoeiro do Norte,Administração,Bacharelado,Curso a Distância,299.00,1,0,0,0,574.86,0,0,0
+CE,Maracanau,Administração,Bacharelado,Curso a Distância,327.00,1,1,0,0,610.50,603.10,0,0
+CE,Maracanau,Administração,Bacharelado,Curso a Distância,327.65,1,0,0,0,601.38,0,0,0
+CE,Maracanau,Administração,Bacharelado,Noturno,558.44,2,1,0,0,629.32,625.50,0,0
+CE,Marco,Administração,Bacharelado,Curso a Distância,333.00,1,0,0,0,581.04,0,0,0
+CE,Quixada,Administração,Bacharelado,Noturno,666.14,1,1,0,0,675.00,653.14,0,0
+CE,Quixeramobim,Administração,Bacharelado,Curso a Distância,417.14,2,1,0,0,618.48,593.44,0,0
+CE,Sao Goncalo do Amarante,Administração,Bacharelado,Curso a Distância,333.00,1,0,0,0,610.18,0,0,0
+CE,Sao Goncalo do Amarante,Administração,Bacharelado,Noturno,482.93,3,2,0,0,588.46,606.38,0,0
+CE,Sobral,Administração,Bacharelado,Matutino,450.00,0,0,1,0,0,0,612.46,0
+CE,Sobral,Administração,Bacharelado,Noturno,450.00,0,0,1,0,0,0,608.80,0
+CE,Sobral,Administração,Bacharelado,Noturno,792.50,2,1,0,0,665.40,649.46,0,0
+CE,Sobral,Administração,Bacharelado,Curso a Distância,289.00,9,5,0,0,630.46,634.24,0,0
+CE,Tiangua,Administração,Bacharelado,Matutino,522.50,2,3,0,8,613.44,616.30,563.32,0
+CE,Tiangua,Administração,Bacharelado,Noturno,522.00,2,1,0,2,729.04,602.34,614.08,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Matutino,684.29,5,3,0,0,629.96,622.92,0,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,627.14,4,2,0,0,626.38,630.32,0,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Matutino,598.57,3,1,0,0,624.06,644.42,0,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,274.00,1,0,1,0,670.56,0,627.10,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,461.56,0,0,7,3,0,0,588.78,565.56
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,461.56,0,0,1,0,0,0,570.28,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,510.31,0,0,1,70,0,0,520.46,534.64
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,617.08,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,446.00,0,0,3,2,0,0,582.20,591.58
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Matutino,969.10,0,0,0,24,0,0,489.84,0
+CE,Fortaleza,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,969.10,0,0,0,25,0,0,450.00,0
+CE,Ico,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,647.14,1,1,0,0,615.92,615.58,0,0
+CE,Iguatu,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,333.00,1,0,0,0,581.44,0,0,0
+CE,Juazeiro do Norte,Análise e Desenvolvimento de Sistemas,Tecnológico,Matutino,645.49,1,1,0,0,674.46,596.20,0,0
+CE,Juazeiro do Norte,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,645.49,3,1,0,0,645.62,619.02,0,0
+CE,Juazeiro do Norte,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,660.25,3,2,0,0,619.66,603.58,0,0
+CE,Limoeiro do Norte,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,299.00,1,0,0,0,598.80,0,0,0
+CE,Marco,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,333.00,1,0,0,0,570.08,0,0,0
+CE,Sao Goncalo do Amarante,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,333.00,1,0,0,0,577.48,0,0,0
+CE,Sao Goncalo do Amarante,Análise e Desenvolvimento de Sistemas,Tecnológico,Noturno,379.20,1,0,0,0,591.22,0,0,0
+CE,Sobral,Análise e Desenvolvimento de Sistemas,Tecnológico,Curso a Distância,274.00,1,0,0,0,641.72,0,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Vespertino,1516.80,3,2,0,0,676.90,666.42,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1516.80,3,1,0,0,672.70,661.24,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Matutino,1489.00,1,1,0,0,670.34,653.80,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1489.00,2,1,0,0,660.86,658.74,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Matutino,1955.00,1,1,2,1,724.82,661.12,636.70,593.08
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1955.00,2,1,1,1,689.48,677.56,602.44,592.00
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1066.01,1,0,1,0,633.64,0,493.14,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Matutino,1007.11,1,1,3,2,646.94,661.86,595.72,594.36
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,755.45,2,1,0,0,637.04,642.02,0,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Matutino,1035.50,1,0,3,1,678.94,0,665.22,613.52
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1035.50,1,0,3,1,644.50,0,590.96,593.10
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Matutino,1926.46,0,0,0,40,0,0,541.48,0
+CE,Fortaleza,Arquitetura e Urbanismo,Bacharelado,Noturno,1926.45,0,0,0,40,0,0,533.30,0
+CE,Juazeiro do Norte,Arquitetura e Urbanismo,Bacharelado,Noturno,1255.36,3,1,4,2,688.60,653.60,645.96,624.78
+CE,Juazeiro do Norte,Arquitetura e Urbanismo,Bacharelado,Matutino,1316.70,3,2,0,0,672.94,644.44,0,0
+CE,Juazeiro do Norte,Arquitetura e Urbanismo,Bacharelado,Noturno,1316.70,3,2,0,0,664.64,655.12,0,0
+CE,Quixada,Arquitetura e Urbanismo,Bacharelado,Noturno,1193.07,2,1,0,0,656.64,627.04,0,0
+CE,Fortaleza,Artes VIsuais,Licenciatura,Curso a Distância,237.00,0,0,1,0,0,0,596.36,0
+CE,Sobral,Artes VIsuais,Licenciatura,Curso a Distância,237.00,1,0,0,0,640.88,0,0,0
+CE,Fortaleza,Biblioteconomia,Bacharelado,Curso a Distância,356.80,1,0,0,0,619.54,0,0,0
+CE,Fortaleza,Biologia,Licenciatura,Curso a Distância,299.00,1,0,0,0,625.42,0,0,0
+CE,Fortaleza,Biomedicina,Bacharelado,Noturno,1278.00,5,2,0,0,710.30,676.70,0,0
+CE,Fortaleza,Biomedicina,Bacharelado,Noturno,1278.00,4,2,0,0,669.60,657.86,0,0
+CE,Fortaleza,Biomedicina,Bacharelado,Matutino,984.06,0,0,0,1,0,0,640.04,0
+CE,Fortaleza,Biomedicina,Bacharelado,Noturno,984.06,0,0,0,1,0,0,637.24,0
+CE,Fortaleza,Biomedicina,Bacharelado,Matutino,1357.90,0,0,0,40,0,0,565.36,0
+CE,Fortaleza,Biomedicina,Bacharelado,Noturno,1357.90,0,0,0,40,0,0,538.86,0
+CE,Fortaleza,Biomedicina,Bacharelado,Matutino,709.14,4,2,0,0,652.74,645.56,0,0
+CE,Fortaleza,Biomedicina,Bacharelado,Matutino,945.52,3,1,0,0,672.52,667.46,0,0
+CE,Juazeiro do Norte,Biomedicina,Bacharelado,Matutino,1352.10,1,1,0,0,731.26,650.68,0,0
+CE,Juazeiro do Norte,Biomedicina,Bacharelado,Noturno,1352.10,1,0,0,0,678.82,0,0,0
+CE,Fortaleza,Ciência da Computação,Bacharelado,Noturno,1149.00,0,2,0,0,657.82,0,0,0
+CE,Fortaleza,Ciência da Computação,Bacharelado,Noturno,476.98,2,1,0,0,656.20,639.60,0,0
+CE,Fortaleza,Ciência da Computação,Bacharelado,Noturno,794.44,2,1,0,0,637.18,642.20,0,0
+CE,Fortaleza,Ciência da Computação,Bacharelado,Noturno,627.48,1,1,1,1,640.96,663.16,644.18,630.48
+CE,Fortaleza,Ciência Política,Bacharelado,Curso a Distância,274.00,1,0,0,0,640.58,0,0,0
+CE,Fortaleza,Ciências Biológicas,Licenciatura,Curso a Distância,213.00,1,0,0,0,622.78,0,0,0
+CE,Fortaleza,Ciências Biológicas,Licenciatura,Curso a Distância,285.00,1,0,1,0,661.34,0,593.76,0
+CE,Fortaleza,Ciências Biológicas,Licenciatura,Curso a Distância,285.00,1,0,1,0,652.94,0,610.24,0
+CE,Acarau,Ciências Contábeis,Bacharelado,Curso a Distância,259.00,4,2,0,0,626.32,608.84,0,0
+CE,Aracati,Ciências Contábeis,Bacharelado,Noturno,570.00,3,2,0,0,640.40,607.72,0,0
+CE,Baturite,Ciências Contábeis,Bacharelado,Curso a Distância,402.65,1,0,0,0,593.48,0,0,0
+CE,Camocim,Ciências Contábeis,Bacharelado,Curso a Distância,239.00,1,0,0,0,597.84,0,0,0
+CE,Caucaia,Ciências Contábeis,Bacharelado,Matutino,715.00,2,1,3,51,645.00,638.82,450.00,522.60
+CE,Caucaia,Ciências Contábeis,Bacharelado,Noturno,715.00,1,1,3,52,637.14,638.72,475.20,549.22
+CE,Crateus,Ciências Contábeis,Bacharelado,Curso a Distância,299.00,3,2,0,0,609.30,613.22,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,891.20,4,2,0,0,641.74,634.50,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,712.86,1,1,0,0,636.26,646.88,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,712.86,7,3,0,0,630.08,628.56,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Vespertino,627.14,2,1,0,0,632.14,626.88,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,798.57,1,0,0,0,646.00,0,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,770.00,1,1,0,0,636.02,624.82,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,909.00,1,1,0,0,641.82,617.64,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,298.00,0,0,1,0,0,0,588.80,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,1025.00,1,0,1,1,662.34,0,603.94,618.58
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,1025.00,3,2,1,1,636.32,643.78,621.94,579.44
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,627.00,0,0,5,3,0,0,589.40,588.48
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,627.00,1,0,2,1,611.94,0,592.40,569.10
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,522.54,0,0,7,3,0,0,587.14,559.12
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,517.34,3,1,0,0,631.02,621.32,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,580.00,0,0,0,50,0,0,534.76,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,325.00,0,0,2,1,0,0,591.96,532.80
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,541.80,1,1,1,1,637.66,631.78,627.48,598.68
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,631.75,0,0,10,5,0,0,589.74,584.04
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,285.00,1,0,1,0,621.22,0,561.56,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,285.00,1,0,1,0,615.16,0,576.18,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,1045.79,0,0,0,49,0,0,450.00,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,1045.79,0,0,0,45,0,0,505.42,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,1045.79,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,1045.79,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,522.50,1,1,0,0,601.58,603.64,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Matutino,473.10,2,1,0,0,644.96,619.24,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Noturno,720.44,1,0,0,0,637.68,0,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,209.00,3,1,0,0,609.02,595.02,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,199.00,4,2,0,0,618.86,602.58,0,0
+CE,Fortaleza,Ciências Contábeis,Bacharelado,Curso a Distância,209.00,1,0,0,0,614.58,0,0,0
+CE,Iguatu,Ciências Contábeis,Bacharelado,Curso a Distância,333.00,1,0,0,0,657.88,0,0,0
+CE,Itapipoca,Ciências Contábeis,Bacharelado,Curso a Distância,229.00,3,1,0,0,635.44,619.54,0,0
+CE,Juazeiro do Norte,Ciências Contábeis,Bacharelado,Noturno,675.37,2,1,0,0,648.74,616.86,0,0
+CE,Juazeiro do Norte,Ciências Contábeis,Bacharelado,Noturno,594.71,2,1,4,2,660.76,641.44,614.54,610.82
+CE,Limoeiro do Norte,Ciências Contábeis,Bacharelado,Curso a Distância,269.00,3,1,0,0,613.80,597.86,0,0
+CE,Maracanau,Ciências Contábeis,Bacharelado,Curso a Distância,285.00,1,0,1,0,591.70,0,561.84,0
+CE,Maracanau,Ciências Contábeis,Bacharelado,Noturno,553.29,2,1,0,0,618.72,609.14,0,0
+CE,Marco,Ciências Contábeis,Bacharelado,Curso a Distância,333.00,1,0,0,0,583.52,0,0,0
+CE,Quixada,Ciências Contábeis,Bacharelado,Noturno,666.14,5,2,0,0,643.44,640.34,0,0
+CE,Quixeramobim,Ciências Contábeis,Bacharelado,Curso a Distância,388.57,1,1,0,0,628.98,603.48,0,0
+CE,Quixeramobim,Ciências Contábeis,Bacharelado,Curso a Distância,289.00,2,1,0,0,597.40,591.40,0,0
+CE,Sao Goncalo do Amarante,Ciências Contábeis,Bacharelado,Curso a Distância,333.00,1,0,0,0,600.80,0,0,0
+CE,Sobral,Ciências Contábeis,Bacharelado,Curso a Distância,298.00,1,0,0,0,690.20,0,0,0
+CE,Sobral,Ciências Contábeis,Bacharelado,Curso a Distância,259.00,5,2,0,0,638.66,627.44,0,0
+CE,Taua,Ciências Contábeis,Bacharelado,Curso a Distância,279.00,1,0,0,0,631.54,0,0,0
+CE,Fortaleza,Ciências Econômicas,Bacharelado,Matutino,1145.28,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Ciências Econômicas,Bacharelado,Noturno,1145.28,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Comércio Exterior,Tecnológico,Matutino,435.59,0,0,0,1,0,0,610.68,0
+CE,Fortaleza,Comércio Exterior,Tecnológico,Noturno,435.59,0,0,0,1,0,0,585.86,0
+CE,Fortaleza,Comércio Exterior,Tecnológico,Noturno,368.73,1,0,1,1,617.10,0,604.22,591.04
+CE,Fortaleza,Comércio Exterior,Tecnológico,Matutino,1045.95,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Comércio Exterior,Tecnológico,Noturno,1045.95,0,0,0,40,0,0,450.00,0
+CE,Sao Goncalo do Amarante,Comércio Exterior,Tecnológico,Noturno,355.30,1,1,0,0,579.10,555.96,0,0
+CE,Fortaleza,Comunicação Social - Jornalismo,Bacharelado,Matutino,1210.00,1,1,1,1,709.66,682.32,635.36,623.60
+CE,Fortaleza,Comunicação Social - Jornalismo,Bacharelado,Noturno,1210.00,1,0,1,1,646.28,0,619.94,611.80
+CE,Fortaleza,Comunicação Social - Publicidade e Propaganda,Bacharelado,Matutino,1210.00,2,1,1,1,684.82,653.22,652.66,613.12
+CE,Fortaleza,Comunicação Social - Publicidade e Propaganda,Bacharelado,Noturno,1210.00,1,1,2,1,659.54,627.42,570.64,580.92
+CE,Fortaleza,Comunicação Social - Publicidade e Propaganda,Bacharelado,Noturno,1276.61,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Comunicação Social - Publicidade e Propaganda,Bacharelado,Matutino,1276.61,0,0,0,45,0,0,506.42,0
+CE,Fortaleza,Construção de Edifícios,Tecnológico,Matutino,698.00,1,0,0,0,624.38,0,0,0
+CE,Fortaleza,Construção de Edifícios,Tecnológico,Noturno,760.05,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Construção de Edifícios,Tecnológico,Matutino,723.90,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Design,Bacharelado,Matutino,1216.40,0,0,0,45,0,0,493.72,0
+CE,Fortaleza,Design,Bacharelado,Noturno,1216.40,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Design de Interiores,Tecnológico,Matutino,827.14,6,3,0,0,629.64,632.40,0,0
+CE,Fortaleza,Design de Interiores,Tecnológico,Noturno,1119.00,1,1,0,0,637.96,667.14,0,0
+CE,Fortaleza,Design de Interiores,Tecnológico,Matutino,1216.40,0,0,0,24,0,0,450.00,0
+CE,Fortaleza,Design de Interiores,Tecnológico,Noturno,1216.40,0,0,0,25,0,0,450.00,0
+CE,Quixada,Design de Interiores,Tecnológico,Noturno,629.64,1,0,0,0,626.84,0,0,0
+CE,Fortaleza,Design de Moda,Tecnológico,Noturno,855.71,1,0,0,0,668.46,0,0,0
+CE,Fortaleza,Design de Moda,Tecnológico,Noturno,1068.00,0,2,0,0,629.20,0,0,0
+CE,Fortaleza,Design de Moda,Tecnológico,Noturno,508.08,3,1,4,2,641.64,606.94,562.34,565.42
+CE,Fortaleza,Design de Moda,Tecnológico,Matutino,1216.40,0,0,0,24,0,0,487.68,0
+CE,Fortaleza,Design de Moda,Tecnológico,Noturno,1216.40,0,0,0,25,0,0,483.14,0
+CE,Itapipoca,Design de Moda,Tecnológico,Curso a Distância,506.93,1,0,0,0,590.60,0,0,0
+CE,Fortaleza,Design Gráfico,Tecnológico,Matutino,827.14,3,1,0,0,662.06,653.58,0,0
+CE,Fortaleza,Design Gráfico,Tecnológico,Matutino,1216.40,0,0,0,24,0,0,513.64,0
+CE,Fortaleza,Design Gráfico,Tecnológico,Noturno,1216.40,0,0,0,25,0,0,487.26,0
+CE,Aracati,Direito,Bacharelado,Noturno,1010.00,3,2,0,0,651.04,667.02,0,0
+CE,Aracati,Direito,Bacharelado,Vespertino,786.00,3,2,0,0,659.98,629.76,0,0
+CE,Fortaleza,Direito,Bacharelado,Matutino,1462.20,5,3,0,0,724.18,692.92,0,0
+CE,Fortaleza,Direito,Bacharelado,Noturno,1462.20,6,3,0,0,688.62,682.80,0,0
+CE,Fortaleza,Direito,Bacharelado,Noturno,1439.00,0,2,0,0,708.58,0,0,0
+CE,Fortaleza,Direito,Bacharelado,Matutino,1590.00,3,2,5,2,721.30,690.74,685.92,648.70
+CE,Fortaleza,Direito,Bacharelado,Noturno,1590.00,2,1,2,1,712.34,686.84,682.38,641.36
+CE,Fortaleza,Direito,Bacharelado,Noturno,831.21,7,4,0,0,642.14,645.74,0,0
+CE,Fortaleza,Direito,Bacharelado,Noturno,831.21,1,0,0,0,652.86,0,0,0
+CE,Fortaleza,Direito,Bacharelado,Noturno,1014.08,3,1,0,0,655.04,665.68,0,0
+CE,Fortaleza,Direito,Bacharelado,Matutino,1149.50,1,0,3,1,686.32,0,658.32,628.82
+CE,Fortaleza,Direito,Bacharelado,Noturno,1149.50,0,0,8,4,0,0,616.30,614.06
+CE,Fortaleza,Direito,Bacharelado,Noturno,1642.44,0,0,0,30,0,0,587.84,0
+CE,Fortaleza,Direito,Bacharelado,Matutino,1642.44,0,0,0,30,0,0,594.78,0
+CE,Fortaleza,Direito,Bacharelado,Matutino,994.74,5,3,0,0,671.66,667.68,0,0
+CE,Fortaleza,Direito,Bacharelado,Noturno,994.74,7,3,0,0,669.54,654.32,0,0
+CE,Juazeiro do Norte,Direito,Bacharelado,Matutino,1193.26,1,1,0,0,670.96,668.90,0,0
+CE,Juazeiro do Norte,Direito,Bacharelado,Noturno,1193.26,7,3,0,0,666.02,669.72,0,0
+CE,Juazeiro do Norte,Direito,Bacharelado,Matutino,1182.75,3,2,0,0,706.84,685.44,0,0
+CE,Juazeiro do Norte,Direito,Bacharelado,Noturno,1182.75,2,3,0,0,689.16,667.28,0,0
+CE,Quixada,Direito,Bacharelado,Noturno,1333.31,3,2,0,0,694.72,694.98,0,0
+CE,Tiangua,Direito,Bacharelado,Noturno,1054.21,2,1,0,1,657.36,664.98,657.04,0
+CE,Aracati,Educação Física,Licenciatura,Noturno,570.00,1,1,0,0,633.22,577.78,0,0
+CE,Camocim,Educação Física,Licenciatura,Curso a Distância,469.00,4,2,0,0,590.48,570.58,0,0
+CE,Caucaia,Educação Física,Licenciatura,Curso a Distância,443.00,1,1,0,0,598.60,603.58,0,0
+CE,Caucaia,Educação Física,Licenciatura,Matutino,749.04,2,1,2,51,621.84,599.70,450.00,521.02
+CE,Caucaia,Educação Física,Licenciatura,Noturno,749.04,0,0,0,50,0,0,450.00,0
+CE,Caucaia,Educação Física,Bacharelado,Matutino,749.04,2,1,3,52,594.06,591.54,450.00,500.64
+CE,Caucaia,Educação Física,Bacharelado,Noturno,749.04,3,1,1,50,641.90,620.14,473.34,518.46
+CE,Crateus,Educação Física,Licenciatura,Curso a Distância,209.00,4,2,0,0,611.52,600.88,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Noturno,941.43,3,1,0,0,640.16,625.02,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Matutino,912.86,2,1,0,0,628.56,625.74,0,0
+CE,Fortaleza,Educação Física,Licenciatura,Matutino,970.00,2,1,0,0,622.68,626.88,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Matutino,970.00,3,1,0,0,642.60,631.18,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Vespertino,912.86,2,1,0,0,616.96,623.60,0,0
+CE,Fortaleza,Educação Física,Licenciatura,Matutino,664.05,1,1,3,2,617.64,628.12,559.90,566.14
+CE,Fortaleza,Educação Física,Licenciatura,Vespertino,569.14,0,0,3,2,0,0,553.22,570.82
+CE,Fortaleza,Educação Física,Licenciatura,Matutino,598.50,1,0,5,2,621.98,0,583.26,563.02
+CE,Fortaleza,Educação Física,Licenciatura,Vespertino,461.70,0,0,2,1,0,0,565.96,561.56
+CE,Fortaleza,Educação Física,Licenciatura,Noturno,431.84,2,1,0,0,601.86,606.18,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Noturno,431.84,2,1,0,0,609.14,615.84,0,0
+CE,Fortaleza,Educação Física,Licenciatura,Noturno,662.00,1,0,0,0,616.74,0,0,0
+CE,Fortaleza,Educação Física,Bacharelado,Noturno,662.00,1,1,0,0,624.56,620.30,0,0
+CE,Fortaleza,Educação Física,Licenciatura,Noturno,674.50,0,0,2,1,0,0,614.34,604.46
+CE,Fortaleza,Educação Física,Bacharelado,Matutino,674.00,0,0,5,3,0,0,602.20,585.70
+CE,Fortaleza,Educação Física,Bacharelado,Noturno,674.00,0,0,1,1,0,0,618.20,577.16
+CE,Fortaleza,Educação Física,Licenciatura,Matutino,1291.37,0,0,0,37,0,0,467.64,0
+CE,Fortaleza,Educação Física,Licenciatura,Noturno,1291.37,0,0,0,49,0,0,470.76,0
+CE,Fortaleza,Educação Física,Bacharelado,Matutino,1291.37,0,0,0,43,0,0,491.46,0
+CE,Fortaleza,Educação Física,Bacharelado,Noturno,1291.37,0,0,0,20,0,0,484.68,0
+CE,Fortaleza,Educação Física,Licenciatura,Curso a Distância,309.00,1,1,0,0,604.46,603.84,0,0
+CE,Ico,Educação Física,Licenciatura,Matutino,731.11,2,1,0,0,608.28,612.32,0,0
+CE,Iguatu,Educação Física,Licenciatura,Curso a Distância,333.00,1,0,0,0,588.12,0,0,0
+CE,Juazeiro do Norte,Educação Física,Bacharelado,Noturno,820.56,3,11,0,0,609.78,604.26,0,0
+CE,Juazeiro do Norte,Educação Física,Licenciatura,Noturno,682.41,4,2,0,0,603.20,603.56,0,0
+CE,Limoeiro do Norte,Educação Física,Licenciatura,Curso a Distância,279.00,3,1,0,0,594.62,583.30,0,0
+CE,Maracanau,Educação Física,Licenciatura,Curso a Distância,443.00,2,1,0,0,631.76,613.24,0,0
+CE,Marco,Educação Física,Licenciatura,Curso a Distância,333.00,1,0,0,0,526.24,0,0,0
+CE,Quixada,Educação Física,Licenciatura,Noturno,677.68,2,1,0,0,617.56,615.40,0,0
+CE,Quixeramobim,Educação Física,Licenciatura,Curso a Distância,249.00,3,1,0,0,585.78,576.98,0,0
+CE,Sao Goncalo do Amarante,Educação Física,Licenciatura,Curso a Distância,333.00,1,0,0,0,588.24,0,0,0
+CE,Limoeiro do Norte,Embelezamento e Imagem Pessoal,Tecnológico,Curso a Distância,299.00,3,1,0,0,628.52,557.38,0,0
+CE,Aracati,Enfermagem,Bacharelado,Noturno,932.00,3,2,0,0,617.06,635.96,0,0
+CE,Caucaia,Enfermagem,Bacharelado,Matutino,1390.46,3,1,5,53,684.60,692.20,503.60,519.78
+CE,Caucaia,Enfermagem,Bacharelado,Noturno,1390.46,0,0,0,50,0,0,495.22,0
+CE,Crateus,Enfermagem,Bacharelado,Noturno,9836.40,1,0,0,0,663.36,0,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1207.00,5,3,0,0,677.80,668.46,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1207.00,5,3,0,0,663.24,662.86,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1141.43,6,3,0,0,637.68,635.44,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Vespertino,998.57,3,2,0,0,646.96,644.50,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,940.50,0,0,9,4,0,0,562.72,567.68
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,881.64,1,0,11,5,670.70,0,589.70,585.42
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,897.75,0,0,2,1,0,0,574.98,573.24
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,807.55,0,0,4,2,0,0,638.08,585.14
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,755.45,5,3,0,0,623.52,627.38,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,1037.74,0,0,0,1,0,0,545.92,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1037.74,0,0,0,1,0,0,564.68,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,903.40,2,1,0,6,601.74,617.26,574.72,0
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,864.50,2,1,0,2,633.46,631.36,569.22,0
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,1111.50,0,0,9,5,0,0,630.70,613.28
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1111.50,0,0,4,2,0,0,588.00,592.08
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,1543.06,0,0,0,85,0,0,547.00,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1543.06,0,0,0,65,0,0,529.18,0
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,741.93,1,0,0,0,648.94,0,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Noturno,1087.07,14,7,0,0,629.12,630.82,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Matutino,989.23,7,4,0,0,665.14,648.20,0,0
+CE,Fortaleza,Enfermagem,Bacharelado,Curso a Distância,349.00,1,1,0,0,636.04,679.28,0,0
+CE,Ico,Enfermagem,Bacharelado,Matutino,817.35,1,1,0,0,664.68,619.48,0,0
+CE,Ico,Enfermagem,Bacharelado,Noturno,817.35,1,1,0,0,622.72,576.14,0,0
+CE,Juazeiro do Norte,Enfermagem,Bacharelado,Matutino,1130.79,3,1,0,0,668.84,660.02,0,0
+CE,Juazeiro do Norte,Enfermagem,Bacharelado,Noturno,1130.79,1,0,0,0,680.36,0,0,0
+CE,Juazeiro do Norte,Enfermagem,Bacharelado,Matutino,991.61,3,2,8,4,651.72,649.26,625.06,605.68
+CE,Juazeiro do Norte,Enfermagem,Bacharelado,Matutino,1284.29,2,1,0,0,739.30,643.64,0,0
+CE,Quixada,Enfermagem,Bacharelado,Integral,1443.46,3,2,0,0,682.18,654.96,0,0
+CE,Quixeramobim,Enfermagem,Bacharelado,Matutino,1155.60,1,0,1,0,631.98,0,559.58,0
+CE,Quixeramobim,Enfermagem,Bacharelado,Noturno,1155.60,1,1,1,1,659.48,643.84,627.24,594.32
+CE,Sao Goncalo do Amarante,Enfermagem,Bacharelado,Noturno,752.40,3,2,0,0,599.38,600.30,0,0
+CE,Tiangua,Enfermagem,Bacharelado,Noturno,1278.04,2,3,0,8,651.34,646.60,591.84,0
+CE,Caucaia,Engenharia Agrícola e Ambiental,Bacharelado,Matutino,1383.06,0,0,1,30,0,0,450.00,450.00
+CE,Caucaia,Engenharia Agrícola e Ambiental,Bacharelado,Noturno,1383.06,1,1,0,30,652.66,638.38,450.00,0
+CE,Tiangua,Engenharia Agrícola e Ambiental,Bacharelado,Matutino,723.58,2,3,0,12,615.42,608.96,530.14,0
+CE,Tiangua,Engenharia Agrícola e Ambiental,Bacharelado,Noturno,723.58,2,1,0,2,634.58,642.76,622.70,0
+CE,Fortaleza,Engenharia Ambiental,Bacharelado,Curso a Distância,439.79,0,0,1,0,0,0,614.60,0
+CE,Fortaleza,Engenharia Ambiental e Sanitária,Bacharelado,Matutino,1439.00,1,0,0,0,635.78,0,0,0
+CE,Fortaleza,Engenharia Ambiental e Sanitária,Bacharelado,Noturno,1439.00,0,2,0,0,654.82,0,0,0
+CE,Fortaleza,Engenharia Ambiental e Sanitária,Bacharelado,Matutino,1605.16,0,0,0,55,0,0,450.00,0
+CE,Fortaleza,Engenharia Ambiental e Sanitária,Bacharelado,Noturno,1605.16,0,0,0,50,0,0,450.00,0
+CE,Caucaia,Engenharia Civil,Bacharelado,Matutino,1511.29,1,1,1,30,688.70,693.02,450.00,450.00
+CE,Caucaia,Engenharia Civil,Bacharelado,Noturno,1511.29,1,0,0,30,650.64,0,478.52,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1387.20,5,3,0,0,675.60,678.48,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1387.20,4,2,0,0,697.84,663.92,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1198.57,1,1,0,0,672.64,750.26,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1170.00,1,1,0,0,673.90,742.98,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1489.00,0,2,0,0,670.76,0,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Curso a Distância,656.46,9,5,0,0,649.84,629.26,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1665.00,1,1,1,2,677.58,672.16,649.92,662.08
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1665.00,1,1,1,1,679.84,681.22,615.12,618.12
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1047.37,1,1,4,2,652.48,653.52,562.74,577.74
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,987.52,1,1,5,2,643.34,629.82,537.42,587.22
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,987.53,1,0,4,2,649.62,0,584.66,568.78
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,755.45,2,1,0,0,628.36,643.08,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,902.50,2,1,0,6,627.26,627.96,563.20,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,866.40,2,1,0,2,625.34,631.32,570.24,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1035.50,0,0,5,2,0,0,593.28,604.82
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1809.82,0,0,0,45,0,0,518.90,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1809.82,0,0,0,45,0,0,503.12,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1809.82,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1809.82,0,0,0,65,0,0,450.00,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Noturno,1111.90,6,3,0,0,654.10,641.80,0,0
+CE,Fortaleza,Engenharia Civil,Bacharelado,Matutino,1053.32,5,2,0,0,655.02,660.82,0,0
+CE,Juazeiro do Norte,Engenharia Civil,Bacharelado,Matutino,1479.15,3,2,0,0,690.80,671.00,0,0
+CE,Juazeiro do Norte,Engenharia Civil,Bacharelado,Noturno,1479.15,3,2,0,0,697.80,682.54,0,0
+CE,Fortaleza,Engenharia de Alimentos,Bacharelado,Matutino,1391.95,1,0,0,40,640.36,0,450.00,0
+CE,Fortaleza,Engenharia de Alimentos,Bacharelado,Noturno,1391.95,1,0,0,40,629.40,0,450.00,0
+CE,Fortaleza,Engenharia de Computação,Bacharelado,Curso a Distância,590.00,0,0,1,0,0,0,656.88,0
+CE,Sobral,Engenharia de Computação,Bacharelado,Curso a Distância,590.00,1,0,0,0,671.70,0,0,0
+CE,Fortaleza,Engenharia de Controle e Automação,Bacharelado,Matutino,1669.37,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Engenharia de Controle e Automação,Bacharelado,Noturno,1669.37,0,0,0,50,0,0,450.00,0
+CE,Caucaia,Engenharia de Produção,Bacharelado,Matutino,1383.06,1,1,0,50,638.46,630.92,450.00,0
+CE,Caucaia,Engenharia de Produção,Bacharelado,Noturno,1383.06,0,0,0,50,0,0,479.46,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,1387.20,4,2,0,0,685.70,648.74,0,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1387.20,2,1,0,0,685.70,638.38,0,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1439.00,0,2,0,0,656.80,0,0,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Curso a Distância,505.00,1,1,0,0,651.42,651.90,0,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,1665.00,1,1,1,1,666.50,648.64,641.14,577.54
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1665.00,1,1,1,1,645.46,663.92,620.32,639.52
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,912.00,1,0,1,0,647.06,0,619.86,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,812.25,1,0,3,1,628.50,0,624.06,583.80
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,812.25,1,0,1,0,655.54,0,586.62,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,755.45,1,1,0,0,641.04,629.12,0,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1035.50,0,0,3,2,0,0,592.18,574.44
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,1605.16,0,0,0,55,0,0,450.00,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1605.16,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Matutino,1465.90,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Engenharia de Produção,Bacharelado,Noturno,1465.90,0,0,0,60,0,0,450.00,0
+CE,Juazeiro do Norte,Engenharia de Produção,Bacharelado,Noturno,966.15,3,2,0,0,662.70,643.14,0,0
+CE,Quixada,Engenharia de Produção,Bacharelado,Noturno,1193.07,1,1,0,0,651.06,647.80,0,0
+CE,Sobral,Engenharia de Produção,Bacharelado,Curso a Distância,505.00,1,0,0,0,648.42,0,0,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Matutino,1112.86,2,1,0,0,653.98,658.20,0,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Vespertino,1112.86,2,1,0,0,644.86,669.30,0,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Noturno,1112.86,2,1,0,0,664.32,645.50,0,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Noturno,1439.00,0,2,0,0,651.54,0,0,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Curso a Distância,659.00,1,0,1,0,706.36,0,641.84,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Matutino,1665.00,0,1,2,1,669.58,0,623.34,608.90
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Noturno,1665.00,1,1,0,2,694.96,661.88,632.50,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Matutino,1605.16,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Noturno,1605.16,0,0,0,47,0,0,510.94,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Matutino,1605.16,0,0,0,30,0,0,450.00,0
+CE,Fortaleza,Engenharia Elétrica,Bacharelado,Noturno,1605.16,0,0,0,33,0,0,518.94,0
+CE,Sobral,Engenharia Elétrica,Bacharelado,Curso a Distância,659.00,1,0,0,0,686.84,0,0,0
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Noturno,1439.00,0,2,0,0,661.22,0,0,0
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Matutino,1665.00,1,0,1,1,677.36,0,593.78,642.12
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Noturno,1665.00,0,1,0,1,651.46,0,668.58,0
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Matutino,1605.16,0,0,0,55,0,0,464.56,0
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Noturno,1605.16,0,0,0,50,0,0,514.06,0
+CE,Fortaleza,Engenharia Mecânica,Bacharelado,Noturno,1111.90,4,2,0,0,652.84,662.56,0,0
+CE,Fortaleza,Engenharia Química,Bacharelado,Matutino,1605.16,0,0,0,55,0,0,450.00,0
+CE,Fortaleza,Engenharia Química,Bacharelado,Noturno,1605.16,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Estética e Cosmética,Tecnológico,Matutino,629.85,1,0,1,0,634.12,0,600.62,0
+CE,Fortaleza,Estética e Cosmética,Tecnológico,Matutino,549.10,1,1,5,2,614.22,624.72,569.54,583.30
+CE,Fortaleza,Estética e Cosmética,Tecnológico,Matutino,665.00,0,0,7,4,0,0,581.96,590.88
+CE,Aracati,Farmácia,Bacharelado,Matutino,1053.00,2,1,0,0,630.08,599.12,0,0
+CE,Aracati,Farmácia,Bacharelado,Noturno,1053.00,1,1,0,0,640.98,626.18,0,0
+CE,Fortaleza,Farmácia,Bacharelado,Noturno,897.84,1,1,0,0,635.56,625.38,0,0
+CE,Fortaleza,Farmácia,Bacharelado,Matutino,1011.75,0,0,5,2,0,0,629.14,622.34
+CE,Fortaleza,Farmácia,Bacharelado,Matutino,709.14,5,3,0,0,635.58,634.86,0,0
+CE,Fortaleza,Farmácia,Bacharelado,Noturno,1039.03,11,6,0,0,631.48,638.02,0,0
+CE,Fortaleza,Farmácia,Bacharelado,Matutino,945.52,5,3,0,0,663.76,626.60,0,0
+CE,Juazeiro do Norte,Farmácia,Bacharelado,Matutino,1334.46,3,1,2,1,732.10,690.10,620.12,602.64
+CE,Juazeiro do Norte,Farmácia,Bacharelado,Noturno,1655.71,3,2,0,0,661.04,638.58,0,0
+CE,Quixada,Farmácia,Bacharelado,Integral,1542.43,2,1,0,0,673.88,659.84,0,0
+CE,Quixeramobim,Farmácia,Bacharelado,Matutino,1155.60,1,0,0,0,592.34,0,0,0
+CE,Quixeramobim,Farmácia,Bacharelado,Noturno,1155.60,1,1,2,1,646.12,630.92,593.96,572.80
+CE,Quixada,Filosofia,Licenciatura,Matutino,574.15,1,0,0,0,621.56,0,0,0
+CE,Sobral,Filosofia,Licenciatura,Curso a Distância,237.00,1,0,0,0,627.30,0,0,0
+CE,Aracati,Fisioterapia,Bacharelado,Noturno,1042.00,2,1,0,0,625.38,618.10,0,0
+CE,Aracati,Fisioterapia,Bacharelado,Matutino,810.00,1,1,0,0,598.68,607.48,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,1136.00,5,2,0,0,650.50,668.72,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1055.71,3,1,0,0,662.38,646.24,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1141.43,9,5,0,0,640.48,633.08,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,897.75,0,0,3,1,0,0,596.36,576.02
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,807.54,0,0,5,3,0,0,606.12,586.04
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,897.75,1,0,1,0,645.24,0,577.54,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,897.75,0,0,5,3,0,0,586.16,568.20
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,807.55,0,0,4,2,0,0,596.40,607.08
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,755.45,4,2,0,0,631.76,607.44,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,755.45,2,1,0,0,635.86,613.64,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,1061.59,0,0,0,1,0,0,577.86,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1061.59,0,0,0,1,0,0,608.84,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,1628.38,0,0,0,50,0,0,545.78,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1628.38,0,0,0,48,0,0,519.76,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1628.40,1,0,0,10,675.02,0,570.56,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Noturno,1007.02,7,4,0,0,626.06,633.42,0,0
+CE,Fortaleza,Fisioterapia,Bacharelado,Matutino,916.40,6,3,0,0,654.76,646.36,0,0
+CE,Ico,Fisioterapia,Bacharelado,Matutino,1224.59,1,1,0,0,684.06,619.92,0,0
+CE,Ico,Fisioterapia,Bacharelado,Noturno,1224.59,1,0,0,0,633.12,0,0,0
+CE,Juazeiro do Norte,Fisioterapia,Bacharelado,Matutino,1402.17,2,1,0,0,657.30,645.14,0,0
+CE,Juazeiro do Norte,Fisioterapia,Bacharelado,Noturno,1402.17,2,1,0,0,674.14,637.54,0,0
+CE,Juazeiro do Norte,Fisioterapia,Bacharelado,Matutino,1598.57,3,1,0,0,652.06,634.68,0,0
+CE,Quixada,Fisioterapia,Bacharelado,Integral,1198.57,1,0,0,0,658.04,0,0,0
+CE,Quixeramobim,Fisioterapia,Bacharelado,Matutino,1155.60,0,0,1,0,0,0,540.24,0
+CE,Quixeramobim,Fisioterapia,Bacharelado,Noturno,1155.60,1,0,3,1,622.66,0,593.64,584.92
+CE,Tiangua,Fisioterapia,Bacharelado,Noturno,1278.04,2,3,0,12,647.96,668.10,573.44,0
+CE,Fortaleza,Fonoaudiologia,Bacharelado,Matutino,984.06,0,0,0,1,0,0,595.84,0
+CE,Fortaleza,Fonoaudiologia,Bacharelado,Noturno,984.06,0,0,0,1,0,0,594.38,0
+CE,Fortaleza,Gastronomia,Tecnológico,Noturno,1530.00,4,2,0,0,630.44,624.68,0,0
+CE,Fortaleza,Gastronomia,Tecnológico,Matutino,894.60,0,0,0,1,0,0,590.92,0
+CE,Fortaleza,Gastronomia,Tecnológico,Noturno,894.60,0,0,0,1,0,0,592.90,0
+CE,Fortaleza,Gastronomia,Tecnológico,Matutino,940.50,0,0,3,2,0,0,604.50,584.34
+CE,Fortaleza,Gastronomia,Tecnológico,Matutino,1438.65,0,0,0,41,0,0,506.92,0
+CE,Fortaleza,Gastronomia,Tecnológico,Noturno,1438.65,0,0,0,34,0,0,486.46,0
+CE,Fortaleza,Gastronomia,Tecnológico,Noturno,931.76,4,2,0,0,657.18,621.86,0,0
+CE,Fortaleza,Geografia,Licenciatura,Curso a Distância,237.00,1,0,0,0,672.22,0,0,0
+CE,Fortaleza,Geografia,Licenciatura,Curso a Distância,325.00,0,0,1,0,0,0,601.10,0
+CE,Itapipoca,Geografia,Licenciatura,Curso a Distância,273.41,1,0,0,0,607.96,0,0,0
+CE,Fortaleza,Gerência de Negócios,Bacharelado,Noturno,367.36,1,0,0,0,626.68,0,0,0
+CE,Fortaleza,Gestão Ambiental,Tecnológico,Curso a Distância,278.00,0,0,1,0,0,0,569.36,0
+CE,Fortaleza,Gestão Ambiental,Tecnológico,Matutino,435.59,0,0,0,1,0,0,609.52,0
+CE,Fortaleza,Gestão Ambiental,Tecnológico,Noturno,435.59,0,0,0,1,0,0,628.14,0
+CE,Fortaleza,Gestão Ambiental,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,696.08,0
+CE,Iguatu,Gestão Ambiental,Tecnológico,Curso a Distância,333.00,1,0,0,0,583.26,0,0,0
+CE,Marco,Gestão Ambiental,Tecnológico,Curso a Distância,333.00,1,0,0,0,450.00,0,0,0
+CE,Sao Goncalo do Amarante,Gestão Ambiental,Tecnológico,Curso a Distância,333.00,1,0,0,0,565.34,0,0,0
+CE,Sobral,Gestão Ambiental,Tecnológico,Curso a Distância,278.00,1,0,0,0,639.82,0,0,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Curso a Distância,265.00,0,0,1,0,0,0,587.12,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Matutino,553.96,1,0,0,10,613.92,0,450.00,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Noturno,553.96,3,1,0,10,579.18,584.72,477.86,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Noturno,368.76,1,1,3,1,582.40,608.30,554.70,564.70
+CE,Fortaleza,Gestão Comercial,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,548.88,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Noturno,760.05,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Gestão Comercial,Tecnológico,Matutino,723.90,0,0,0,40,0,0,450.00,0
+CE,Iguatu,Gestão Comercial,Tecnológico,Curso a Distância,333.00,1,0,0,0,587.62,0,0,0
+CE,Juazeiro do Norte,Gestão Comercial,Tecnológico,Noturno,635.06,4,2,0,0,607.02,605.50,0,0
+CE,Marco,Gestão Comercial,Tecnológico,Curso a Distância,333.00,1,0,0,0,638.84,0,0,0
+CE,Quixada,Gestão Comercial,Tecnológico,Noturno,486.54,4,2,0,0,618.08,604.86,0,0
+CE,Sao Goncalo do Amarante,Gestão Comercial,Tecnológico,Curso a Distância,333.00,1,0,0,0,542.60,0,0,0
+CE,Fortaleza,Gestão da Produção Industrial,Tecnológico,Curso a Distância,278.00,1,0,0,0,597.70,0,0,0
+CE,Sobral,Gestão da Produção Industrial,Tecnológico,Curso a Distância,278.00,1,0,0,0,618.60,0,0,0
+CE,Fortaleza,Gestão da Tecnologia da Informação,Tecnológico,Noturno,835.00,1,0,0,0,644.78,0,0,0
+CE,Fortaleza,Gestão da Tecnologia da Informação,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,597.84,0
+CE,Fortaleza,Gestão da Tecnologia da Informação,Tecnológico,Matutino,969.10,0,0,0,24,0,0,450.00,0
+CE,Fortaleza,Gestão da Tecnologia da Informação,Tecnológico,Noturno,969.10,0,0,0,25,0,0,450.00,0
+CE,Fortaleza,Gestão da Tecnologia da Informação,Tecnológico,Curso a Distância,169.00,3,2,0,0,628.02,607.80,0,0
+CE,Aracati,Gestão de Recursos Humanos,Tecnológico,Noturno,456.00,1,1,0,0,596.62,605.58,0,0
+CE,Barbalha,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,269.00,2,1,0,0,587.60,588.72,0,0
+CE,Baturite,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,402.65,1,0,0,0,573.52,0,0,0
+CE,Caucaia,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,209.00,1,0,0,0,603.50,0,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,598.57,2,1,0,0,618.30,602.56,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,598.57,8,4,0,0,600.12,606.50,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,627.14,3,2,0,0,593.66,595.88,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,598.57,5,3,0,0,603.54,601.90,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,598.57,5,2,0,0,607.68,608.18,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,598.57,5,3,0,0,593.18,618.04,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,698.00,1,1,0,0,595.38,612.76,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,461.56,2,1,11,6,626.72,596.46,557.62,560.74
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,408.59,3,1,7,3,640.66,587.78,546.66,540.64
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,299.24,1,0,1,0,592.74,0,546.30,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,461.56,0,0,1,1,0,0,547.88,590.64
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,415.21,0,0,6,3,0,0,553.90,516.44
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,380.00,2,1,4,2,630.56,616.62,555.24,563.12
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,580.00,1,1,3,2,602.30,559.84,500.62,485.58
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,580.00,1,1,3,2,588.72,592.68,481.64,450.00
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,432.60,1,1,2,1,588.68,611.12,575.64,565.42
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,527.48,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,437.00,0,0,5,3,0,0,569.62,555.16
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,285.00,1,0,1,0,584.62,0,555.46,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,285.00,1,0,1,0,579.54,0,557.02,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,760.05,0,0,0,40,0,0,474.32,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,723.90,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Matutino,408.50,3,2,0,0,594.14,591.94,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,408.50,7,3,0,0,582.24,584.48,0,0
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Noturno,580.00,1,1,3,1,581.10,545.30,520.92,503.30
+CE,Fortaleza,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,219.00,9,4,0,0,610.04,590.52,0,0
+CE,Itapipoca,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,279.00,3,1,0,0,621.40,598.36,0,0
+CE,Juazeiro do Norte,Gestão de Recursos Humanos,Tecnológico,Noturno,626.37,3,1,0,0,602.10,611.74,0,0
+CE,Juazeiro do Norte,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,249.00,3,1,0,0,593.40,593.20,0,0
+CE,Limoeiro do Norte,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,289.00,1,0,0,0,590.68,0,0,0
+CE,Maracanau,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,285.00,1,0,1,0,619.76,0,602.86,0
+CE,Marco,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,333.00,1,0,0,0,450.00,0,0,0
+CE,Sao Goncalo do Amarante,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,333.00,1,0,0,0,574.06,0,0,0
+CE,Sao Goncalo do Amarante,Gestão de Recursos Humanos,Tecnológico,Noturno,355.30,3,1,0,0,615.78,583.94,0,0
+CE,Sobral,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,278.00,1,0,0,0,610.44,0,0,0
+CE,Sobral,Gestão de Recursos Humanos,Tecnológico,Curso a Distância,319.00,1,1,0,0,635.72,632.56,0,0
+CE,Fortaleza,Gestão de Serviços Jurídicos e Notariais,Tecnológico,Curso a Distância,212.00,0,0,1,0,0,0,612.10,0
+CE,Sobral,Gestão de Serviços Jurídicos e Notariais,Tecnológico,Curso a Distância,248.00,1,0,0,0,633.48,0,0,0
+CE,Fortaleza,Gestão Financeira,Tecnológico,Noturno,698.00,1,1,0,0,638.36,608.54,0,0
+CE,Fortaleza,Gestão Financeira,Tecnológico,Noturno,408.59,2,1,7,3,616.52,597.78,578.68,554.48
+CE,Fortaleza,Gestão Financeira,Tecnológico,Noturno,380.00,0,0,2,1,0,0,563.96,568.20
+CE,Fortaleza,Gestão Financeira,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,515.08,0
+CE,Fortaleza,Gestão Financeira,Tecnológico,Matutino,408.50,2,1,0,0,577.30,607.50,0,0
+CE,Fortaleza,Gestão Financeira,Tecnológico,Noturno,408.00,3,2,0,0,607.20,600.14,0,0
+CE,Fortaleza,Gestão Financeira,Tecnológico,Noturno,520.00,1,0,2,1,607.04,0,526.34,528.36
+CE,Iguatu,Gestão Financeira,Tecnológico,Curso a Distância,333.00,1,0,0,0,570.56,0,0,0
+CE,Marco,Gestão Financeira,Tecnológico,Curso a Distância,333.00,1,0,0,0,633.68,0,0,0
+CE,Sao Goncalo do Amarante,Gestão Financeira,Tecnológico,Curso a Distância,333.00,1,0,0,0,562.82,0,0,0
+CE,Sobral,Gestão Financeira,Tecnológico,Curso a Distância,278.00,1,0,0,0,676.48,0,0,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Matutino,598.57,3,1,0,0,644.38,610.38,0,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Noturno,598.57,3,2,0,0,607.76,595.16,0,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Matutino,700.00,1,1,3,2,604.80,598.34,497.30,463.30
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Noturno,700.00,1,1,3,2,593.40,603.02,516.16,494.86
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Matutino,435.59,0,0,0,1,0,0,573.66,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Noturno,435.59,0,0,0,1,0,0,560.50,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Matutino,760.05,0,0,0,24,0,0,479.68,0
+CE,Fortaleza,Gestão Hospitalar,Tecnológico,Noturno,760.05,0,0,0,24,0,0,485.80,0
+CE,Sao Goncalo do Amarante,Gestão Portuária,Tecnológico,Noturno,355.30,1,1,0,0,593.84,565.92,0,0
+CE,Fortaleza,Gestão Pública,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,607.22,0
+CE,Iguatu,Gestão Pública,Tecnológico,Curso a Distância,333.00,1,0,0,0,601.12,0,0,0
+CE,Marco,Gestão Pública,Tecnológico,Curso a Distância,333.00,1,0,0,0,528.44,0,0,0
+CE,Sao Goncalo do Amarante,Gestão Pública,Tecnológico,Curso a Distância,333.00,1,0,0,0,579.24,0,0,0
+CE,Sobral,Gestão Pública,Tecnológico,Curso a Distância,279.00,1,0,1,0,631.90,0,619.98,0
+CE,Baturite,História,Licenciatura,Curso a Distância,402.65,1,0,0,0,636.98,0,0,0
+CE,Fortaleza,História,Licenciatura,Curso a Distância,237.00,0,0,1,0,0,0,669.14,0
+CE,Fortaleza,História,Licenciatura,Curso a Distância,325.00,0,0,1,0,0,0,593.88,0
+CE,Sobral,História,Licenciatura,Curso a Distância,237.00,1,0,0,0,652.64,0,0,0
+CE,Fortaleza,Hotelaria,Bacharelado,Noturno,431.84,2,1,0,0,593.00,612.74,0,0
+CE,Fortaleza,Jogos Digitais,Tecnológico,Matutino,770.00,5,2,0,0,643.20,642.40,0,0
+CE,Fortaleza,Jogos Digitais,Tecnológico,Noturno,698.00,1,1,0,0,629.62,645.92,0,0
+CE,Fortaleza,Jornalismo,Bacharelado,Matutino,884.29,1,0,0,0,643.84,0,0,0
+CE,Fortaleza,Jornalismo,Bacharelado,Matutino,1276.61,0,0,0,45,0,0,535.32,0
+CE,Fortaleza,Jornalismo,Bacharelado,Noturno,1276.61,0,0,0,45,0,0,495.22,0
+CE,Quixada,Jornalismo,Bacharelado,Noturno,1102.90,1,0,0,0,640.92,0,0,0
+CE,Fortaleza,Letras,Licenciatura,Curso a Distância,299.00,0,0,1,0,0,0,643.24,0
+CE,Quixeramobim,Letras - Inglês,Licenciatura,Curso a Distância,327.14,1,0,0,0,686.12,0,0,0
+CE,Fortaleza,Letras - Libras,Licenciatura,Curso a Distância,213.00,9,5,0,0,607.96,598.32,0,0
+CE,Iguatu,Letras - Português,Licenciatura,Curso a Distância,333.00,1,0,0,0,599.96,0,0,0
+CE,Marco,Letras - Português,Licenciatura,Curso a Distância,333.00,1,0,0,0,568.86,0,0,0
+CE,Quixeramobim,Letras - Português,Licenciatura,Curso a Distância,327.14,1,0,0,0,593.38,0,0,0
+CE,Sao Goncalo do Amarante,Letras - Português,Licenciatura,Curso a Distância,333.00,1,0,0,0,606.54,0,0,0
+CE,Sobral,Letras - Português,Licenciatura,Curso a Distância,249.00,3,1,0,0,635.16,617.88,0,0
+CE,Fortaleza,Letras - Português e Espanhol,Licenciatura,Curso a Distância,325.00,1,0,1,0,648.14,0,576.42,0
+CE,Itapipoca,Letras - Português e Inglês,Licenciatura,Curso a Distância,273.41,1,0,0,0,633.08,0,0,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,698.00,1,0,0,0,615.04,0,0,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,461.56,4,2,11,6,615.14,617.12,574.76,540.52
+CE,Fortaleza,Logística,Tecnológico,Curso a Distância,299.24,1,0,1,0,613.16,0,555.04,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,415.21,0,0,6,3,0,0,540.10,530.92
+CE,Fortaleza,Logística,Tecnológico,Matutino,435.59,0,0,0,1,0,0,569.44,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,435.59,0,0,0,1,0,0,543.18,0
+CE,Fortaleza,Logística,Tecnológico,Curso a Distância,325.00,0,0,1,0,0,0,589.80,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,436.05,2,1,0,6,599.24,587.52,500.54,0
+CE,Fortaleza,Logística,Tecnológico,Matutino,411.16,2,1,0,6,611.28,572.58,491.46,0
+CE,Fortaleza,Logística,Tecnológico,Vespertino,411.16,2,1,0,6,575.44,586.84,450.00,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,792.65,0,0,0,22,0,0,490.56,0
+CE,Fortaleza,Logística,Tecnológico,Matutino,754.90,0,0,0,24,0,0,450.00,0
+CE,Fortaleza,Logística,Tecnológico,Noturno,408.50,5,2,0,0,603.00,590.44,0,0
+CE,Fortaleza,Logística,Tecnológico,Matutino,408.00,1,1,0,0,606.68,580.86,0,0
+CE,Iguatu,Logística,Tecnológico,Curso a Distância,333.00,1,0,0,0,556.36,0,0,0
+CE,Marco,Logística,Tecnológico,Curso a Distância,333.00,1,0,0,0,545.06,0,0,0
+CE,Sao Goncalo do Amarante,Logística,Tecnológico,Curso a Distância,333.00,1,0,0,0,579.62,0,0,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,655.71,5,3,0,0,613.30,605.36,0,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,627.14,3,1,0,0,542.58,619.62,0,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,684.29,1,1,0,0,614.64,593.60,0,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,598.57,5,2,0,0,626.22,621.18,0,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,698.00,1,0,0,0,572.70,0,0,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,408.60,2,1,6,3,614.40,607.28,570.22,549.02
+CE,Fortaleza,Marketing,Tecnológico,Noturno,169.00,1,1,0,0,622.76,591.32,0,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,553.96,0,0,0,10,0,0,512.64,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,553.96,1,0,0,10,581.80,0,520.38,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,510.31,0,0,0,30,0,0,489.66,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,760.05,1,0,0,35,646.72,0,450.00,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,723.90,1,0,0,35,607.88,0,450.00,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,760.05,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,723.90,0,0,0,40,0,0,450.00,0
+CE,Fortaleza,Marketing,Tecnológico,Matutino,408.50,2,1,0,0,606.52,595.14,0,0
+CE,Fortaleza,Marketing,Tecnológico,Noturno,408.50,6,3,0,0,589.12,586.48,0,0
+CE,Fortaleza,Marketing,Tecnológico,Curso a Distância,269.00,1,0,0,0,579.20,0,0,0
+CE,Iguatu,Marketing,Tecnológico,Curso a Distância,333.00,1,0,0,0,610.38,0,0,0
+CE,Juazeiro do Norte,Marketing,Tecnológico,Noturno,615.60,3,2,0,0,642.50,605.66,0,0
+CE,Marco,Marketing,Tecnológico,Curso a Distância,333.00,1,0,0,0,530.30,0,0,0
+CE,Sao Goncalo do Amarante,Marketing,Tecnológico,Curso a Distância,333.00,1,0,0,0,551.44,0,0,0
+CE,Sobral,Marketing,Tecnológico,Curso a Distância,270.00,1,0,0,0,635.40,0,0,0
+CE,Sobral,Marketing,Tecnológico,Curso a Distância,239.00,3,1,0,0,686.74,616.02,0,0
+CE,Baturite,Matemática,Licenciatura,Curso a Distância,402.65,1,0,0,0,620.20,0,0,0
+CE,Fortaleza,Matemática,Licenciatura,Curso a Distância,239.00,0,0,1,0,0,0,628.78,0
+CE,Fortaleza,Matemática,Licenciatura,Curso a Distância,325.00,1,0,1,0,684.12,0,598.66,0
+CE,Iguatu,Matemática,Licenciatura,Curso a Distância,333.00,1,0,0,0,631.24,0,0,0
+CE,Marco,Matemática,Licenciatura,Curso a Distância,333.00,1,0,0,0,593.94,0,0,0
+CE,Sao Goncalo do Amarante,Matemática,Licenciatura,Curso a Distância,333.00,1,0,0,0,605.72,0,0,0
+CE,Sobral,Matemática,Licenciatura,Curso a Distância,239.00,1,0,0,0,707.14,0,0,0
+CE,Fortaleza,Medicina,Bacharelado,Integral,7783.50,13,6,0,0,767.90,745.00,0,0
+CE,Caucaia,Medicina Veterinária,Bacharelado,Matutino,3041.90,0,0,1,1,0,0,686.70,646.02
+CE,Juazeiro do Norte,Medicina Veterinária,Bacharelado,Matutino,2100.00,5,3,0,0,689.46,646.40,0,0
+CE,Juazeiro do Norte,Medicina Veterinária,Bacharelado,Noturno,2100.00,3,1,0,0,705.02,654.10,0,0
+CE,Fortaleza,Música,Licenciatura,Curso a Distância,299.00,1,0,0,0,659.30,0,0,0
+CE,Fortaleza,Negócios Imobiliários,Tecnológico,Matutino,435.59,0,0,0,1,0,0,564.42,0
+CE,Fortaleza,Negócios Imobiliários,Tecnológico,Noturno,435.59,0,0,0,1,0,0,578.56,0
+CE,Aracati,Nutrição,Bacharelado,Matutino,908.00,3,2,0,0,628.72,605.02,0,0
+CE,Aracati,Nutrição,Bacharelado,Noturno,908.00,3,2,0,0,630.60,627.30,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,1530.00,5,2,0,0,704.30,656.84,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,1370.00,3,1,0,0,646.36,644.44,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Matutino,1255.71,3,1,0,0,691.32,668.02,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,1427.14,3,1,0,0,631.22,623.62,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Vespertino,1255.71,7,4,0,0,640.50,627.06,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Curso a Distância,630.81,8,4,0,0,609.40,613.70,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Matutino,987.52,2,1,5,3,642.12,636.34,573.76,585.26
+CE,Fortaleza,Nutrição,Bacharelado,Vespertino,855.00,1,0,1,0,632.24,0,568.52,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,755.45,3,2,0,0,626.38,608.42,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Matutino,1235.00,0,0,3,1,0,0,604.82,604.96
+CE,Fortaleza,Nutrição,Bacharelado,Matutino,1534.05,0,0,0,45,0,0,549.94,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,1534.05,0,0,0,45,0,0,537.16,0
+CE,Fortaleza,Nutrição,Bacharelado,Matutino,1047.02,7,4,0,0,645.04,638.14,0,0
+CE,Fortaleza,Nutrição,Bacharelado,Noturno,1047.02,6,3,0,0,630.80,625.56,0,0
+CE,Juazeiro do Norte,Nutrição,Bacharelado,Matutino,991.61,1,1,3,2,681.62,654.72,614.74,609.86
+CE,Fortaleza,Odontologia,Bacharelado,Noturno,2270.50,5,2,0,0,710.96,687.42,0,0
+CE,Fortaleza,Odontologia,Bacharelado,Matutino,2270.50,5,3,0,0,725.90,694.78,0,0
+CE,Fortaleza,Odontologia,Bacharelado,Noturno,2270.50,5,3,0,0,692.14,688.90,0,0
+CE,Fortaleza,Odontologia,Bacharelado,Matutino,2213.50,0,0,10,5,0,0,666.76,634.66
+CE,Juazeiro do Norte,Odontologia,Bacharelado,Matutino,2548.12,3,2,0,0,689.78,678.00,0,0
+CE,Juazeiro do Norte,Odontologia,Bacharelado,Noturno,2548.12,5,2,0,0,692.44,650.12,0,0
+CE,Quixada,Odontologia,Bacharelado,Integral,2128.83,5,2,0,0,694.32,686.24,0,0
+CE,Acarau,Pedagogia,Licenciatura,Curso a Distância,219.00,3,2,0,0,579.04,594.10,0,0
+CE,Aracati,Pedagogia,Licenciatura,Noturno,362.00,1,1,0,0,621.72,616.88,0,0
+CE,Barbalha,Pedagogia,Licenciatura,Curso a Distância,209.00,1,1,0,0,623.12,605.40,0,0
+CE,Baturite,Pedagogia,Licenciatura,Curso a Distância,402.65,1,1,0,0,574.86,567.28,0,0
+CE,Caninde,Pedagogia,Licenciatura,Curso a Distância,239.00,3,2,0,0,596.78,584.82,0,0
+CE,Caucaia,Pedagogia,Licenciatura,Curso a Distância,209.00,1,1,0,0,584.32,599.66,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,299.00,1,0,0,0,586.62,0,0,0
+CE,Fortaleza,Pedagogia,Bacharelado,Curso a Distância,177.23,10,5,0,0,602.84,596.02,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Noturno,790.00,1,1,0,1,629.88,631.62,614.98,0
+CE,Fortaleza,Pedagogia,Licenciatura,Noturno,451.29,0,0,10,5,0,0,571.76,581.94
+CE,Fortaleza,Pedagogia,Licenciatura,Matutino,418.09,1,0,1,0,623.90,0,618.12,0
+CE,Fortaleza,Pedagogia,Licenciatura,Noturno,431.84,2,1,0,0,611.82,621.80,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Integral,600.00,7,3,11,179,611.94,613.44,454.06,514.34
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,325.00,2,1,5,2,590.02,521.18,530.54,529.16
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,285.00,1,0,1,0,626.76,0,578.64,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,285.00,1,0,1,0,637.58,0,574.00,0
+CE,Fortaleza,Pedagogia,Licenciatura,Matutino,387.77,2,1,0,0,635.64,644.14,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,209.00,5,3,0,0,596.66,583.28,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,239.00,1,1,0,0,582.54,597.76,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,229.00,4,2,0,0,613.10,588.78,0,0
+CE,Fortaleza,Pedagogia,Licenciatura,Curso a Distância,209.00,1,0,0,0,599.42,0,0,0
+CE,Iguatu,Pedagogia,Licenciatura,Curso a Distância,333.00,1,0,0,0,640.44,0,0,0
+CE,Itapipoca,Pedagogia,Licenciatura,Curso a Distância,209.00,1,0,0,0,603.24,0,0,0
+CE,Marco,Pedagogia,Licenciatura,Curso a Distância,333.00,1,1,0,0,571.48,714.02,0,0
+CE,Quixeramobim,Pedagogia,Licenciatura,Matutino,268.90,0,0,1,1,0,0,565.74,548.24
+CE,Quixeramobim,Pedagogia,Licenciatura,Noturno,268.90,0,0,2,1,0,0,590.22,560.28
+CE,Quixeramobim,Pedagogia,Licenciatura,Curso a Distância,229.00,1,1,0,0,599.06,587.44,0,0
+CE,Sao Goncalo do Amarante,Pedagogia,Licenciatura,Curso a Distância,333.00,1,1,0,0,581.26,579.80,0,0
+CE,Sao Goncalo do Amarante,Pedagogia,Licenciatura,Noturno,397.57,1,0,0,0,604.52,0,0,0
+CE,Sobral,Pedagogia,Licenciatura,Curso a Distância,270.00,1,0,1,0,609.74,0,607.70,0
+CE,Sobral,Pedagogia,Licenciatura,Curso a Distância,299.00,3,1,0,0,627.70,623.00,0,0
+CE,Taua,Pedagogia,Licenciatura,Curso a Distância,239.00,1,0,0,0,583.82,0,0,0
+CE,Tiangua,Pedagogia,Licenciatura,Matutino,415.44,2,3,0,12,620.24,611.88,528.14,0
+CE,Tiangua,Pedagogia,Licenciatura,Noturno,415.44,2,1,0,2,619.10,617.24,553.24,0
+CE,Caucaia,Processos Gerenciais,Tecnológico,Curso a Distância,308.00,1,1,0,0,573.42,585.18,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Curso a Distância,358.40,3,2,0,0,625.98,616.22,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Curso a Distância,358.40,3,1,0,0,602.08,573.54,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,684.29,3,1,0,0,620.68,624.30,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,598.57,2,1,0,0,614.38,607.54,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Curso a Distância,213.00,1,1,0,0,569.50,482.92,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,461.56,1,1,9,4,593.94,612.94,550.56,529.70
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,408.59,0,0,3,1,0,0,576.46,532.84
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,382.07,0,0,5,2,0,0,565.16,525.18
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,380.00,0,0,3,1,0,0,552.74,545.12
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,600.00,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,435.59,0,0,0,1,0,0,530.48,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,435.59,0,0,0,1,0,0,574.72,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,760.05,0,0,0,19,0,0,450.00,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,723.90,0,0,0,18,0,0,450.00,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Matutino,408.50,1,1,0,0,607.54,581.66,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,408.50,7,4,0,0,565.84,573.10,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Noturno,580.00,1,0,3,1,575.40,0,519.14,476.46
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Curso a Distância,199.00,5,2,0,0,604.10,574.30,0,0
+CE,Fortaleza,Processos Gerenciais,Tecnológico,Curso a Distância,209.00,1,1,0,0,571.68,538.34,0,0
+CE,Marco,Processos Gerenciais,Tecnológico,Curso a Distância,333.00,1,0,0,0,518.04,0,0,0
+CE,Sao Goncalo do Amarante,Processos Gerenciais,Tecnológico,Curso a Distância,333.00,1,0,0,0,601.46,0,0,0
+CE,Sobral,Processos Gerenciais,Tecnológico,Curso a Distância,249.00,1,0,0,0,614.60,0,0,0
+CE,Aracati,Psicologia,Bacharelado,Matutino,1042.00,2,1,0,0,632.30,623.46,0,0
+CE,Aracati,Psicologia,Bacharelado,Noturno,1042.00,1,1,0,0,676.84,647.56,0,0
+CE,Crateus,Psicologia,Bacharelado,Noturno,9689.34,3,2,0,0,651.00,652.22,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,1278.00,3,2,0,0,716.72,673.86,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,1278.00,3,2,0,0,715.72,670.36,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,1279.00,1,0,0,0,644.44,0,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,1279.00,0,2,0,0,658.46,0,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,1510.00,2,1,3,1,664.58,672.80,657.10,613.50
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,1510.00,1,1,1,2,652.82,664.44,604.04,634.06
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,978.52,2,1,3,2,632.46,631.64,625.48,596.08
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,881.64,0,0,1,1,0,0,612.58,611.48
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,461.56,1,0,1,0,643.60,0,599.54,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,987.52,1,1,2,1,691.62,634.68,621.78,573.46
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,807.54,1,1,3,2,645.40,651.84,585.18,615.80
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,1037.74,0,0,0,1,0,0,637.84,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,1037.74,0,0,0,1,0,0,597.60,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,1563.16,0,0,0,45,0,0,563.00,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,1563.16,0,0,0,45,0,0,555.98,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,653.57,2,1,0,0,711.26,653.60,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Noturno,958.99,5,3,0,0,643.68,642.32,0,0
+CE,Fortaleza,Psicologia,Bacharelado,Matutino,872.69,3,2,0,0,678.62,663.28,0,0
+CE,Ico,Psicologia,Bacharelado,Matutino,1120.62,1,1,0,0,641.68,649.34,0,0
+CE,Ico,Psicologia,Bacharelado,Noturno,1120.62,1,0,0,0,662.18,0,0,0
+CE,Juazeiro do Norte,Psicologia,Bacharelado,Matutino,1176.35,1,1,0,0,673.06,646.90,0,0
+CE,Juazeiro do Norte,Psicologia,Bacharelado,Noturno,1176.35,2,1,0,0,647.68,659.20,0,0
+CE,Juazeiro do Norte,Psicologia,Bacharelado,Matutino,1179.90,3,2,0,0,667.52,639.06,0,0
+CE,Juazeiro do Norte,Psicologia,Bacharelado,Noturno,1179.90,3,2,0,0,649.56,642.22,0,0
+CE,Quixada,Psicologia,Bacharelado,Noturno,1431.69,4,2,0,0,657.20,642.46,0,0
+CE,Tiangua,Psicologia,Bacharelado,Matutino,997.50,2,3,0,12,629.44,629.44,567.44,0
+CE,Tiangua,Psicologia,Bacharelado,Vespertino,997.50,2,1,0,2,638.58,632.50,582.60,0
+CE,Fortaleza,Publicidade e Propaganda,Bacharelado,Matutino,941.43,2,1,0,0,660.50,649.94,0,0
+CE,Fortaleza,Publicidade e Propaganda,Bacharelado,Noturno,1210.00,1,0,1,1,646.34,0,615.44,591.04
+CE,Fortaleza,Publicidade e Propaganda,Bacharelado,Noturno,476.98,1,0,0,0,613.96,0,0,0
+CE,Fortaleza,Publicidade e Propaganda,Bacharelado,Noturno,476.98,2,1,0,0,633.28,618.24,0,0
+CE,Fortaleza,Radiologia,Tecnológico,Noturno,802.40,5,2,0,0,622.36,619.14,0,0
+CE,Fortaleza,Radiologia,Tecnológico,Matutino,775.32,0,0,0,1,0,0,585.56,0
+CE,Fortaleza,Radiologia,Tecnológico,Noturno,775.32,0,0,0,1,0,0,597.96,0
+CE,Fortaleza,Radiologia,Tecnológico,Matutino,792.65,0,0,0,40,0,0,526.76,0
+CE,Fortaleza,Radiologia,Tecnológico,Noturno,792.65,0,0,0,40,0,0,526.38,0
+CE,Fortaleza,"Rádio, TV e Internet",Bacharelado,Matutino,1121.01,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,"Rádio, TV e Internet",Bacharelado,Noturno,1121.01,0,0,0,45,0,0,450.00,0
+CE,Fortaleza,Redes de Computadores,Tecnológico,Matutino,598.57,4,2,0,0,616.54,616.04,0,0
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,598.57,5,3,0,0,632.12,615.78,0,0
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,461.57,0,0,5,2,0,0,587.50,567.22
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,510.31,1,1,1,30,609.82,579.66,535.96,619.40
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,650.00,1,0,1,48,627.04,0,454.90,498.70
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,512.40,0,0,1,1,0,0,609.72,624.80
+CE,Fortaleza,Redes de Computadores,Tecnológico,Matutino,969.10,0,0,0,24,0,0,450.00,0
+CE,Fortaleza,Redes de Computadores,Tecnológico,Noturno,969.10,0,0,0,25,0,0,450.00,0
+CE,Sao Goncalo do Amarante,Redes de Computadores,Tecnológico,Noturno,379.19,1,0,0,0,584.76,0,0,0
+CE,Fortaleza,Relações Internacionais,Bacharelado,Curso a Distância,278.00,1,0,0,0,691.12,0,0,0
+CE,Fortaleza,Segurança da Informação,Tecnológico,Matutino,904.50,1,0,0,10,650.34,0,450.00,0
+CE,Fortaleza,Segurança da Informação,Tecnológico,Noturno,904.50,1,0,0,10,690.30,0,492.32,0
+CE,Juazeiro do Norte,Segurança no Trabalho,Tecnológico,Noturno,553.32,1,1,3,1,608.08,594.90,591.76,590.20
+CE,Acarau,Serviço Social,Bacharelado,Curso a Distância,279.00,5,3,0,0,573.18,562.44,0,0
+CE,Aracati,Serviço Social,Bacharelado,Noturno,624.00,1,1,0,0,635.70,617.34,0,0
+CE,Camocim,Serviço Social,Bacharelado,Curso a Distância,229.00,3,2,0,0,573.60,577.58,0,0
+CE,Caucaia,Serviço Social,Bacharelado,Matutino,680.96,3,1,0,50,605.14,578.70,464.12,0
+CE,Caucaia,Serviço Social,Bacharelado,Noturno,680.96,0,0,0,50,0,0,490.60,0
+CE,Caucaia,Serviço Social,Bacharelado,Curso a Distância,229.00,1,0,0,0,567.10,0,0,0
+CE,Crateus,Serviço Social,Bacharelado,Curso a Distância,299.00,2,1,0,0,628.36,614.90,0,0
+CE,Fortaleza,Serviço Social,Bacharelado,Matutino,451.29,0,0,1,0,0,0,599.80,0
+CE,Fortaleza,Serviço Social,Bacharelado,Matutino,418.09,1,0,5,2,652.86,0,596.48,578.34
+CE,Fortaleza,Serviço Social,Bacharelado,Noturno,431.84,3,1,0,0,613.92,606.06,0,0
+CE,Fortaleza,Serviço Social,Bacharelado,Noturno,680.95,1,0,1,71,639.52,0,506.38,557.16
+CE,Fortaleza,Serviço Social,Bacharelado,Matutino,513.00,2,1,0,6,596.06,605.32,530.10,0
+CE,Fortaleza,Serviço Social,Bacharelado,Vespertino,513.00,2,1,0,6,578.72,593.02,489.90,0
+CE,Fortaleza,Serviço Social,Bacharelado,Noturno,513.00,2,1,0,6,562.78,602.34,525.04,0
+CE,Fortaleza,Serviço Social,Bacharelado,Noturno,598.50,0,0,6,3,0,0,591.94,580.70
+CE,Fortaleza,Serviço Social,Bacharelado,Matutino,528.98,6,3,0,0,629.32,612.44,0,0
+CE,Fortaleza,Serviço Social,Bacharelado,Curso a Distância,229.00,11,5,0,0,572.52,574.36,0,0
+CE,Fortaleza,Serviço Social,Bacharelado,Curso a Distância,289.00,8,4,0,0,585.02,581.14,0,0
+CE,Itapipoca,Serviço Social,Bacharelado,Curso a Distância,289.00,9,4,0,0,593.50,575.88,0,0
+CE,Juazeiro do Norte,Serviço Social,Bacharelado,Noturno,746.24,0,9,0,0,608.26,0,0,0
+CE,Limoeiro do Norte,Serviço Social,Bacharelado,Curso a Distância,279.00,5,3,0,0,585.76,587.92,0,0
+CE,Quixada,Serviço Social,Bacharelado,Noturno,579.55,1,1,0,0,612.08,615.08,0,0
+CE,Quixeramobim,Serviço Social,Bacharelado,Curso a Distância,417.14,4,2,0,0,596.20,559.44,0,0
+CE,Quixeramobim,Serviço Social,Bacharelado,Curso a Distância,309.00,1,1,0,0,569.44,614.82,0,0
+CE,Sobral,Serviço Social,Bacharelado,Curso a Distância,288.00,1,0,0,0,627.72,0,0,0
+CE,Sobral,Serviço Social,Bacharelado,Matutino,450.00,0,0,1,0,0,0,592.06,0
+CE,Sobral,Serviço Social,Bacharelado,Noturno,450.00,0,0,1,0,0,0,587.58,0
+CE,Sobral,Serviço Social,Bacharelado,Curso a Distância,259.00,1,0,0,0,661.48,0,0,0
+CE,Taua,Serviço Social,Bacharelado,Curso a Distância,289.00,4,2,0,0,581.88,580.86,0,0
+CE,Fortaleza,Sistema de Informação,Bacharelado,Noturno,598.50,0,0,6,3,0,0,574.60,580.72
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Noturno,1067.20,3,2,0,0,703.12,639.82,0,0
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Noturno,1255.00,1,0,1,1,638.48,0,522.14,529.88
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Matutino,1255.00,1,0,1,0,700.50,0,622.70,0
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Noturno,1255.00,1,0,1,1,693.48,0,628.64,622.06
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Noturno,569.52,1,1,2,1,649.18,640.52,604.32,599.14
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Matutino,1130.45,0,0,0,50,0,0,450.00,0
+CE,Fortaleza,Sistemas de Informação,Bacharelado,Noturno,1130.45,0,0,0,50,0,0,450.00,0
+CE,Iguatu,Sistemas de Informação,Bacharelado,Curso a Distância,333.00,1,0,0,0,613.98,0,0,0
+CE,Juazeiro do Norte,Sistemas de Informação,Bacharelado,Noturno,699.96,1,1,3,2,670.62,667.74,617.66,609.48
+CE,Juazeiro do Norte,Sistemas de Informação,Bacharelado,Noturno,660.25,3,2,0,0,640.28,639.70,0,0
+CE,Marco,Sistemas de Informação,Bacharelado,Curso a Distância,333.00,1,0,0,0,556.82,0,0,0
+CE,Quixada,Sistemas de Informação,Bacharelado,Noturno,807.07,1,0,0,0,627.68,0,0,0
+CE,Sao Goncalo do Amarante,Sistemas de Informação,Bacharelado,Curso a Distância,333.00,1,0,0,0,622.22,0,0,0
+CE,Tiangua,Sistemas de Informação,Bacharelado,Noturno,501.71,2,5,0,20,607.22,589.78,535.20,0
+CE,Fortaleza,Sistemas para Internet,Tecnológico,Noturno,650.00,0,0,0,30,0,0,469.04,0
+CE,Fortaleza,Sociologia,Licenciatura,Curso a Distância,230.00,0,0,1,0,0,0,602.16,0
+CE,Fortaleza,Sociologia,Licenciatura,Curso a Distância,213.00,1,1,0,0,649.20,614.14,0,0
+CE,Fortaleza,Teologia,Bacharelado,Curso a Distância,189.00,0,0,1,1,0,0,581.16,605.36
+CE,Fortaleza,Teologia,Bacharelado,Curso a Distância,213.00,1,0,0,0,644.62,0,0,0
+CE,Iguatu,Teologia,Bacharelado,Curso a Distância,333.00,1,0,0,0,626.38,0,0,0
+CE,Marco,Teologia,Bacharelado,Curso a Distância,333.00,1,0,0,0,450.00,0,0,0
+CE,Quixada,Teologia,Bacharelado,Matutino,488.71,1,0,0,0,601.36,0,0,0
+CE,Sao Goncalo do Amarante,Teologia,Bacharelado,Curso a Distância,333.00,1,0,0,0,648.66,0,0,0
+CE,Fortaleza,Turismo,Bacharelado,Noturno,431.84,2,1,0,0,609.34,619.18,0,0
+CE,Fortaleza,Turismo,Bacharelado,Noturno,431.84,2,1,0,0,619.80,594.86,0,0
+CE,Fortaleza,Turismo,Bacharelado,Matutino,1097.55,0,0,0,49,0,0,450.00,0
+CE,Fortaleza,Turismo,Bacharelado,Noturno,1097.55,0,0,0,50,0,0,450.00,0
